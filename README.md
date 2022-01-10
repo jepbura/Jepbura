@@ -3,6 +3,8 @@
 
 <p>Hi, I am Javad Ebrahimpour Boura, the inventor and Electronic engineering from Iran, Babol. I have more than 10 years of experience in electronic circuit design and hardware programming, I also have about 5 years of experience in design and development of various types of software.</p>
 
+![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
+
 ### Embedded Systems
 
 <div>
@@ -50,12 +52,10 @@
   <img src ="/assets/images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
   <img src ="/assets/images/ubuntu.png" alt="ubuntu logo" width="5%" title='Ubuntu'/> 
 </div>
-
-![](/assets/gif/p.gif)
   
 ### Contact Me
   
-<div><img src='/asset/images/web.png' alt='www.jepbura.ir' width="8%">
+<div>
 <a href="https://www.jepbura.ir" target="_blank"><img src='/asset/images/web.png' alt='www.jepbura.ir' width="8%"></a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src='/asset/images/facebook.png' alt='Facebook' width="8%"></a>
 <a href="https://www.instagram.com/jepbura" target="_blank"><img src='/asset/images/instagram.png' alt='Instagram' width="8%"></a>
@@ -64,6 +64,9 @@
 <a href="https://t.me/jepbura" target="_blank"><img src='/asset/images/telegram.png' alt='Telegram' width="3%" title='@jepbura'></a>
 <a href="https://www.youtube.com/channel/UCAuHfV-1WFEO_rKogAXzKmw" target="_blank"><img src='/asset/images/youtube.svg' alt='YouTube' width="3%"></a>
 </div>
+  
+![](/assets/gif/p.gif)
+
   
 <!---
 - [Website](https://www.jepbura.ir "www.jepbura.ir")
