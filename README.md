@@ -1,5 +1,5 @@
 <h1 align="center">Hey there</h1>
-<div class="row"><h1 align="center">I'm Jepbura</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+<h1 align="center">I'm Jepbura <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ![](/assets/p.gif)
 
