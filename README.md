@@ -55,7 +55,7 @@
   
 ### Contact Me
   
-<div>
+<div><img src='/asset/images/web.png' alt='www.jepbura.ir' width="8%">
 <a href="https://www.jepbura.ir" target="_blank"><img src='/asset/images/web.png' alt='www.jepbura.ir' width="8%"></a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src='/asset/images/facebook.png' alt='Facebook' width="8%"></a>
 <a href="https://www.instagram.com/jepbura" target="_blank"><img src='/asset/images/instagram.png' alt='Instagram' width="8%"></a>
