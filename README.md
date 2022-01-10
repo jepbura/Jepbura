@@ -19,7 +19,7 @@
 
 <div>
   <img src ="/assets/images/c.png" alt="c logo" width="6%" title='C'/>
-  <img src ="/assets/images/flutter.png" alt="flutter logo" width="3%" title='Flutter'/>
+  <img src ="/assets/images/flutter.png" alt="flutter logo" width="5%" title='Flutter'/>
   <img src ="/assets/images/dart.png" alt="dart logo" width="10%" title='Dart'/>
   <img src ="/assets/images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="/assets/images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
