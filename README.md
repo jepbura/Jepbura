@@ -7,11 +7,8 @@
 <img src="https://img.shields.io/badge/Nodejs-4CAF50?style=flat-square&logo=Nodejs&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDb-4CAF50?style=flat-square&logo=MongoDb&logoColor=white">
 </div>
-<br />
-<br />
+
 ![](/assets/p.gif)
-<br />
-<br />
 
 [website]: https://www.jepbura.ir
 [facebook]: https://www.facebook.com/jepbura/
