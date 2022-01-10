@@ -19,7 +19,7 @@
 
 <div>
   <img src ="/assets/images/c.png" alt="c logo" width="6%" title='C'/>
-  <img src ="/assets/images/flutter.png" alt="flutter logo" width="5%" title='Flutter'/>
+  <img src ="/assets/images/flutter.png" alt="flutter logo" width="4%" title='Flutter'/>
   <img src ="/assets/images/dart.png" alt="dart logo" width="10%" title='Dart'/>
   <img src ="/assets/images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="/assets/images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
@@ -35,7 +35,7 @@
   <img src ="/assets/images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
   <img src ="/assets/images/mongodb.svg" alt="D3 logo" width="10%" title='MongoDB'/>
   <img src ="/assets/images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
-  <img src ="/assets/images/sqlite.svg" alt="sqlite logo" width="10%" title='sqlite'/>
+  <img src ="/assets/images/sqlite.svg" alt="sqlite logo" width="7%" title='sqlite'/>
   <img src ="/assets/images/python.svg" alt="Python logo" width="5%" title='Python'/>
 </div>
 
