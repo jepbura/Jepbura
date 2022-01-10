@@ -10,7 +10,7 @@
 
 ![](/assets/p.gif)
 
-- [website]: https://www.jepbura.ir
+- [Website]: https://www.jepbura.ir
 - [facebook]: https://www.facebook.com/jepbura/
 - [instagram]: https://www.instagram.com/jepbura/
 - [twitter]: https://twitter.com/jepbura
