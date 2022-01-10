@@ -55,11 +55,10 @@
   
 ![](/assets/gif/p.gif)
 
-  
 ### Contact Me
   
 <div>
-<a href="https://www.jepbura.ir" target="_blank"><img src='./asset/images/web.png' alt='www.jepbura.ir' width="8%"></a>
+<a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/ubuntu.png" alt="ubuntu logo" width="5%" title='Ubuntu'/></a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src='./asset/images/facebook.png' alt='Facebook' width="8%"></a>
 <a href="https://www.instagram.com/jepbura" target="_blank"><img src='./asset/images/instagram.png' alt='Instagram' width="8%"></a>
 <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src='./asset/images/linkedin.svg' alt='LinkedIn' width="8%"></a>
