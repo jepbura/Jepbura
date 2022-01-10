@@ -52,14 +52,19 @@
 </div>
 
 ![](/assets/gif/p.gif)
-
-- [website](https://www.jepbura.ir "www.jepbura.ir")
-- [facebook](https://www.facebook.com/jepbura/)
-- [instagram](https://www.instagram.com/jepbura/)
-- [twitter](https://twitter.com/jepbura)
-- [linkedin](https://www.linkedin.com/in/jepbura/)
-- [youtube](https://www.youtube.com/channel/UCAuHfV-1WFEO_rKogAXzKmw)
-- [telegram](https://t.me/jepbura)
+  
+### Contact Me
+  
+<div>
+<a href="https://www.jepbura.ir" target="_blank"><img src='/asset/images/web.png' alt='www.jepbura.ir' width="8%"></a>
+<a href="https://www.facebook.com/jepbura" target="_blank"><img src='/asset/images/facebook.png' alt='Facebook' width="8%"></a>
+<a href="https://www.instagram.com/jepbura" target="_blank"><img src='/asset/images/instagram.png' alt='Instagram' width="8%"></a>
+<a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src='/asset/images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="https://twitter.com/jepbura" target="_blank"><img src='/asset/images/twitter.svg' alt='Twitter' width="3%" title='@jepbura'></a>
+<a href="https://t.me/jepbura" target="_blank"><img src='/asset/images/telegram.png' alt='Telegram' width="3%" title='@jepbura'></a>
+<a href="https://www.youtube.com/channel/UCAuHfV-1WFEO_rKogAXzKmw" target="_blank"><img src='/asset/images/youtube.svg' alt='YouTube' width="3%"></a>
+</div>
+  
 <!---
 - [Website](https://www.jepbura.ir "www.jepbura.ir")
 
