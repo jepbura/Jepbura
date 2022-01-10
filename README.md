@@ -2,7 +2,7 @@
 <h1 align="left">I'm Jepbura <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p>Hi, I am Javad Ebrahimpour Boura, the inventor and Electronic engineering from Iran, Babol. I have more than 10 years of experience in electronic circuit design and hardware programming, I also have about 5 years of experience in design and development of various types of software.</p>
-arduino.png
+
 ### Embedded Systems
 
 <div>
