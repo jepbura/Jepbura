@@ -10,11 +10,11 @@
 
 ![](/assets/p.gif)
 
-- [Website]: https://www.jepbura.ir
-- [facebook]: https://www.facebook.com/jepbura/
-- [instagram]: https://www.instagram.com/jepbura/
-- [twitter]: https://twitter.com/jepbura
-- [linkedin]: https://www.linkedin.com/in/jepbura/
+- [website] (https://www.jepbura.ir)
+- [facebook] (https://www.facebook.com/jepbura/)
+- [instagram] (https://www.instagram.com/jepbura/)
+- [twitter] (https://twitter.com/jepbura)
+- [linkedin] (https://www.linkedin.com/in/jepbura/)
 <!---
 - [Website](https://www.jepbura.ir "www.jepbura.ir")
 
