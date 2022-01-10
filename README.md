@@ -18,7 +18,7 @@
 ### Frontend Technologies
 
 <div>
-  <img src ="/assets/images/c.png" alt="c logo" width="10%" title='C'/>
+  <img src ="/assets/images/c.png" alt="c logo" width="6%" title='C'/>
   <img src ="/assets/images/flutter.png" alt="flutter logo" width="3%" title='Flutter'/>
   <img src ="/assets/images/dart.png" alt="dart logo" width="10%" title='Dart'/>
   <img src ="/assets/images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
@@ -43,7 +43,7 @@
 
 <div>
   <img src ="/assets/images/altium.png" alt="altium logo" width="5%" title='Altium Designer '/>
-  <img src ="/assets/images/mx.png" alt="mx logo" width="5%" title='Cube MX'/>
+  <img src ="/assets/images/mx.png" alt="mx logo" width="10%" title='Cube MX'/>
   <img src ="/assets/images/xd.png" alt="xd logo" width="5%" title='XD'/>
   <img src ="/assets/images/office.png" alt="VS Code logo" width="5%" title='Office'/>
   <img src ="/assets/images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
@@ -61,10 +61,10 @@
 <a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/web.png" alt="ubuntu logo" width="5%" title='www.jepbura.ir'/></a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
 <a href="https://www.instagram.com/jepbura" target="_blank"><img src ="/assets/images/instagram.png" alt="instagram logo" width="5%" title='Instagram'/></a>
-<a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="/assets/images/linkedin.png" alt="linkedin logo" width="5%" title='Linkedin'/></a>
-<a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.png" alt="twitter logo" width="5%" title='Twitter'/></a>
+<a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="/assets/images/linkedin.svg" alt="linkedin logo" width="5%" title='Linkedin'/></a>
+<a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.svg" alt="twitter logo" width="5%" title='Twitter'/></a>
 <a href="https://t.me/jepbura" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
-<a href="https://www.youtube.com/channel/UCAuHfV-1WFEO_rKogAXzKmw" target="_blank"><img src ="/assets/images/youtube.png" alt="youtube logo" width="5%" title='Youtube'/></a>
+<a href="https://www.youtube.com/channel/UCAuHfV-1WFEO_rKogAXzKmw" target="_blank"><img src ="/assets/images/youtube.svg" alt="youtube logo" width="5%" title='Youtube'/></a>
 </div>
   
 <!---
