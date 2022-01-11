@@ -8,11 +8,11 @@
 ### Embedded Systems
 
 <div>
-  <div style="padding: 10px;"> <img src ="/assets/images/st.png" alt="st logo" width="3%" title='ST'/><div>
-  <img src ="/assets/images/raspberry.png" alt="raspberry logo" width="3%" title='Raspberry Pi'/>
-  <img src ="/assets/images/arduino.png" alt="arduino logo" width="3%" title='Arduino'/>
-  <img src ="/assets/images/atmel.png" alt="atmel logo" width="3%" title='Atmel'/>
-  <img src ="/assets/images/microchip.png" alt="microchip logo" width="6%" title='Microchip'/>
+  <div style="padding: 10px;"><img src ="/assets/images/st.png" alt="st logo" width="3%" title='ST'/><div>
+  <div style="padding: 10px;"><img src ="/assets/images/raspberry.png" alt="raspberry logo" width="3%" title='Raspberry Pi'/><div>
+  <div style="padding: 10px;"><img src ="/assets/images/arduino.png" alt="arduino logo" width="3%" title='Arduino'/><div>
+  <div style="padding: 10px;"><img src ="/assets/images/atmel.png" alt="atmel logo" width="3%" title='Atmel'/><div>
+  <div style="padding: 10px;"><img src ="/assets/images/microchip.png" alt="microchip logo" width="6%" title='Microchip'/><div>
 <div> 
   
 ### Frontend Technologies
