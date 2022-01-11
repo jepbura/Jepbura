@@ -8,7 +8,7 @@
 ### Embedded Systems
 
 <div>
-  <img src ="/assets/images/st.png" alt="st logo" width="3%" title='ST'/>
+  <img src ="/assets/images/st.png" alt="st logo" width="3%" title='ST' padding="10px"/>
   <img src ="/assets/images/raspberry.png" alt="raspberry logo" width="3%" title='Raspberry Pi'/>
   <img src ="/assets/images/arduino.png" alt="arduino logo" width="3%" title='Arduino'/>
   <img src ="/assets/images/atmel.png" alt="atmel logo" width="3%" title='Atmel'/>
@@ -27,7 +27,7 @@
   <img src ="/assets/images/gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
   <img src ="/assets/images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="/assets/images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
-  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="15%" title='Tailwind CSS'/>
+  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="20%" title='Tailwind CSS'/>
 <div> 
   
 ### Backend Technologies
