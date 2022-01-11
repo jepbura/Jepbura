@@ -77,25 +77,22 @@
   <img src ="/assets/images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
   
   <img src ="/assets/images/ubuntu.png" alt="ubuntu logo" width="10%" title='Ubuntu'/> 
+  
 </div>
+  
   
 ![](/assets/gif/p.gif)
 
+  
 ### Contact Me
   
 <div>
 <a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/web.png" alt="ubuntu logo" width="5%" title='www.jepbura.ir'/></a>
-  
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="10%" title='Facebook'/></a>
-  
 <a href="https://www.instagram.com/jepbura" target="_blank"><img src ="/assets/images/instagram.png" alt="instagram logo" width="5%" title='Instagram'/></a>
-  
 <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="/assets/images/linkedin.svg" alt="linkedin logo" width="10%" title='Linkedin'/></a>
-  
 <a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.svg" alt="twitter logo" width="5%" title='Twitter'/></a>
-  
 <a href="https://t.me/jepbura" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
-  
 <a href="https://www.youtube.com/channel/UCAuHfV-1WFEO_rKogAXzKmw" target="_blank"><img src ="/assets/images/youtube.svg" alt="youtube logo" width="5%" title='Youtube'/></a>
 </div>
   
