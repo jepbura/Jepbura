@@ -9,6 +9,7 @@
 
 <div>
   <img src ="/assets/images/st.png" alt="st logo" width="3%" title='ST'/>
+  <br>
   <img src ="/assets/images/raspberry.png" alt="raspberry logo" width="3%" title='Raspberry Pi'/>
   <img src ="/assets/images/arduino.png" alt="arduino logo" width="3%" title='Arduino'/>
   <img src ="/assets/images/atmel.png" alt="atmel logo" width="3%" title='Atmel'/>
