@@ -27,7 +27,7 @@
   <img src ="/assets/images/gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
   <img src ="/assets/images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="/assets/images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
-  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="4%" title='Tailwind CSS'/>
+  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="10%" title='Tailwind CSS'/>
 <div> 
   
 ### Backend Technologies
