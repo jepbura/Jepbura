@@ -24,7 +24,7 @@
 <div>
   <img src ="/assets/images/c.png" alt="c logo" width="6%" title='C'/>
   
-  <img src ="/assets/images/dart.png" alt="dart logo" width="10%" title='Dart'/>
+  <img src ="/assets/images/dart.png" alt="dart logo" width="10%" title='Dart' style="margin-top: 30px;"/>
   
   <img src ="/assets/images/flutter.png" alt="flutter logo" width="4%" title='Flutter'/>
   
