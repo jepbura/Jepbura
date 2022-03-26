@@ -77,16 +77,21 @@
   
   <img src ="/assets/images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
   
-  <img src ="/assets/images/ubuntu.png" alt="ubuntu logo" width="10%" title='Ubuntu'/> 
+  <img src ="/assets/images/ubuntu.png" alt="ubuntu logo" width="10%" title='Ubuntu'/>
+
+  <img src ="/assets/images/anaconda.png" alt="anaconda logo" width="10%" title='Anaconda'/>
+
+  <img src ="/assets/images/machineLearning.png" alt="machineLearning logo" width="6%" title='Machine learning'/>
+
+  <img src ="/assets/images/opencv.png" alt="opencv logo" width="6%" title='Opencv'/>
   
 </div>
   
   
 ![](/assets/gif/p.gif)
 
-  
 ### Contact Me
-  
+
 <div>
 <a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/web.png" alt="ubuntu logo" width="5%" title='www.jepbura.ir'/></a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="10%" title='Facebook'/></a>
