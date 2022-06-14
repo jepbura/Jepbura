@@ -94,6 +94,8 @@
   
   <img src ="/assets/images/mx.png" alt="mx logo" width="10%" title='Cube MX'/>
   
+  <img src ="/assets/images/chromeExtension.png" alt="chrome extension logo" width="5%" title='Chrome Extension'/>
+  
   <img src ="/assets/images/xd.png" alt="xd logo" width="5%" title='XD'/>
   
   <img src ="/assets/images/office.png" alt="VS Code logo" width="5%" title='Office'/>
