@@ -94,7 +94,7 @@
   
   <img src ="/assets/images/mx.png" alt="mx logo" width="10%" title='Cube MX'/>
   
-  <img src ="/assets/images/opp.png" alt="object oriented programming" width="5%" title='Object Oriented Programming'/>
+  <img src ="/assets/images/oop.png" alt="object oriented programming" width="5%" title='Object Oriented Programming'/>
 
   <img src ="/assets/images/chromeExtension.png" alt="chrome extension logo" width="8%" title='Chrome Extension'/>
   
