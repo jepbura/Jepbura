@@ -96,6 +96,8 @@
   
   <img src ="/assets/images/oop.png" alt="object oriented programming" width="5%" title='Object Oriented Programming'/>
 
+  <img src ="/assets/images/osm.png" alt="openstreetmap" width="5%" title='Openstreetmap'/>
+  
   <img src ="/assets/images/chromeExtension.png" alt="chrome extension logo" width="8%" title='Chrome Extension'/>
   
   <img src ="/assets/images/xd.png" alt="xd logo" width="5%" title='XD'/>
