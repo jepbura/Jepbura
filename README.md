@@ -108,6 +108,10 @@
   
   <img src ="/assets/images/webpack.png" alt="webpack logo" width="5%" title='Webpack'/>
   
+  <img src ="/assets/images/mvvm.png" alt="mvvm logo" width="5%" title='Model-View-ViewModel'/>
+  
+  <img src ="/assets/images/unitTest.png" alt="Unit Test logo" width="5%" title='Unit Test'/>
+  
   <img src ="/assets/images/jest.png" alt="jest logo" width="5%" title='Jest'/>
   
   <img src ="/assets/images/s3.png" alt="s3 logo" width="5%" title='S3'/>
