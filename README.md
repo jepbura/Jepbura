@@ -84,7 +84,9 @@
   
   <img src ="/assets/images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   
-  <img src ="/assets/images/sqlite.svg" alt="sqlite logo" width="7%" title='sqlite'/>
+  <img src ="/assets/images/sqlite.svg" alt="sqlite logo" width="7%" title='Sqlite'/>
+  
+  <img src ="/assets/images/redis.png" alt="Redis logo" width="5%" title='Redis'/>
 </div>
 
 ### Tools
