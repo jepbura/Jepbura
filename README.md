@@ -32,6 +32,10 @@
   
   <img src ="/assets/images/docker.png" alt="Docker logo" width="5%" title='Docker'/>
   
+  <img src ="/assets/images/gcloud.png" alt="gcloud logo" width="5%" title='Google Cloud‏'/> 
+  
+  <img src ="/assets/images/digitalocean.png" alt="digitalocean logo" width="5%" title='Digitalocean Cloud‏'/> 
+  
   <img src ="/assets/images/arvan.png" alt="arvan logo" width="5%" title='ArvanCloud | Unified Cloud Infrastructure‏'/> 
   
   <img src ="/assets/images/git.svg" alt="Git logo" width="10%" title='Git'/>
