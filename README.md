@@ -100,7 +100,7 @@
 ### CI CD
 
 <div>
-  <img src ="/assets/images/jenkins.png" alt="Jenkins logo" width="2%" title='jenkins'/>
+  <img src ="/assets/images/jenkins.png" alt="Jenkins logo" width="10%" title='jenkins'/>
 </div>
 
 ### Tools
