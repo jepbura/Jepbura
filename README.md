@@ -76,7 +76,7 @@
   
   <img src ="/assets/images/arvan.png" alt="arvan logo" width="5%" title='ArvanCloud | Unified Cloud Infrastructure'/> 
   
-  <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='openshift'/>
+  <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='Openshift'/>
 
   <img src ="/assets/images/git.svg" alt="Git logo" width="10%" title='Git'/>
   
@@ -97,7 +97,7 @@
   <img src ="/assets/images/redis.png" alt="Redis logo" width="5%" title='Redis'/>
 </div>
 
-### CI CD
+### CI/CD
 
 <div>
   <img src ="/assets/images/jenkins.png" alt="Jenkins logo" width="5%" title='Jenkins'/>
