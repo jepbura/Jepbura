@@ -19,32 +19,6 @@
   <img src ="/assets/images/microchip.png" alt="microchip logo" width="6%" title='Microchip'/>
 <div> 
 
-### Devops Technologies
-
-<div>
-  <img src ="/assets/images/devops.png" alt="devops logo" width="5%" title='DEVOPS'/> 
-  
-  <img src ="/assets/images/ubuntu.png" alt="ubuntu logo" width="5%" title='Ubuntu'/>
-  
-  <img src ="/assets/images/ansible.svg" alt="ansible logo" width="5%" title='Ansible'/>
-  
-  <img src ="/assets/images/kubernetes.png" alt="kubernetes logo" width="5%" title='Kubernetes'/>
-  
-  <img src ="/assets/images/docker.png" alt="Docker logo" width="5%" title='Docker'/>
-  
-  <img src ="/assets/images/gcloud.png" alt="gcloud logo" width="5%" title='Google Cloud‏'/> 
-  
-  <img src ="/assets/images/digitalocean.png" alt="digitalocean logo" width="5%" title='Digitalocean Cloud‏'/> 
-  
-  <img src ="/assets/images/arvan.png" alt="arvan logo" width="5%" title='ArvanCloud | Unified Cloud Infrastructure‏'/> 
-  
-  <img src ="/assets/images/git.svg" alt="Git logo" width="10%" title='Git'/>
-  
-  <img src ="/assets/images/nginx.png" alt="nginx logo" width="5%" title='Nginx'/> 
-  
-  <img src ="/assets/images/pm2.png" alt="pm2 logo" width="5%" title='PM2'/> 
-<div> 
-
 ### Frontend Technologies
 
 <div>
@@ -81,6 +55,36 @@
   <img src ="/assets/images/api.png" alt="Restful api logo" width="7%" title='Restful API'/>
 </div>
 
+### Devops Technologies
+
+<div>
+  <img src ="/assets/images/devops.png" alt="devops logo" width="5%" title='DEVOPS'/> 
+  
+  <img src ="/assets/images/ubuntu.png" alt="ubuntu logo" width="5%" title='Ubuntu'/>
+  
+  <img src ="/assets/images/ansible.svg" alt="ansible logo" width="5%" title='Ansible'/>
+  
+  <img src ="/assets/images/kubernetes.png" alt="kubernetes logo" width="5%" title='Kubernetes'/>
+  
+  <img src ="/assets/images/docker.png" alt="Docker logo" width="5%" title='Docker'/>
+
+  <img src ="/assets/images/portainer.png" alt="Portainer logo" width="5%" title='Portainer'/>
+  
+  <img src ="/assets/images/gcloud.png" alt="gcloud logo" width="5%" title='Google Cloud'/> 
+  
+  <img src ="/assets/images/digitalocean.png" alt="digitalocean logo" width="5%" title='Digitalocean Cloud'/> 
+  
+  <img src ="/assets/images/arvan.png" alt="arvan logo" width="5%" title='ArvanCloud | Unified Cloud Infrastructure'/> 
+  
+  <img src ="/assets/images/openshift.svg" alt="Openshift logo" width="5%" title='openshift'/>
+
+  <img src ="/assets/images/git.svg" alt="Git logo" width="10%" title='Git'/>
+  
+  <img src ="/assets/images/nginx.png" alt="nginx logo" width="5%" title='Nginx'/> 
+  
+  <img src ="/assets/images/pm2.png" alt="pm2 logo" width="5%" title='PM2'/> 
+<div> 
+
 ### Database technology
 
 <div>
@@ -91,6 +95,12 @@
   <img src ="/assets/images/sqlite.svg" alt="sqlite logo" width="7%" title='Sqlite'/>
   
   <img src ="/assets/images/redis.png" alt="Redis logo" width="5%" title='Redis'/>
+</div>
+
+### CI CD
+
+<div>
+  <img src ="/assets/images/jenkins.png" alt="Jenkins logo" width="5%" title='jenkins'/>
 </div>
 
 ### Tools
