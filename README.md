@@ -1,6 +1,6 @@
 <h1 align="left">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
 
-<p>Hi, I am Javad Ebrahimpour Bura, the inventor and Electronic engineering from Iran, Babol. I have more than 10 years of experience in electronic circuit design and hardware programming, I also have about 5 years of experience in design and development of various types of software.</p>
+<p>Hello everyone, my name is Javad Ebrahimpour Bura and I'm from Babol, Iran. I am an inventor and electronic engineer with more than 10 years of experience in circuit design and hardware programming. Over the years, I have successfully led various challenging projects to completion, leveraging my innovative mindset and technical skills. In addition to my expertise in electronics, I have also been involved in designing and developing different types of software for around 5 years.</p>
 <!---
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 --->
