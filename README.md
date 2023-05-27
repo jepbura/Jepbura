@@ -62,7 +62,9 @@
 <div>
   <img src ="/assets/images/devops.png" alt="devops logo" width="5%" title='DEVOPS'/> 
   
-  <img src ="/assets/images/ubuntu.png" alt="ubuntu logo" width="5%" title='Ubuntu'/>
+  <img src ="/assets/images/ubuntu.png" alt="Ubuntu logo" width="5%" title='Ubuntu'/>
+
+  <img src ="/assets/images/CentOS.png" alt="CentOS logo" width="5%" title='CentOS'/>
   
   <img src ="/assets/images/ansible.svg" alt="ansible logo" width="5%" title='Ansible'/>
   
