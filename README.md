@@ -160,8 +160,8 @@
   
 </div>
 
-  <h1 align="left">Gi_Ba_Vene_Dele<img src="/assets/gif/p.gif"></h1>
-  
+  <h2 align="left">#Gi_Ba_Vene_Dele</h2>
+  <img src="/assets/gif/p.gif">
 <!-- ![](/assets/gif/p.gif) -->
 
 ### Contact Me
