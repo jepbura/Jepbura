@@ -159,10 +159,10 @@
   <img src ="/assets/images/opencv.png" alt="opencv logo" width="10%" title='Opencv'/>
   
 </div>
+
+  <h1 align="left">Gi_Ba_Vene_Dele<img src="/assets/gif/p.gif"></h1>
   
-### #Gi_Ba_Vene_Dele
-  
-![](/assets/gif/p.gif)
+<!-- ![](/assets/gif/p.gif) -->
 
 ### Contact Me
 
