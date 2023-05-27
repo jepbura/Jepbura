@@ -62,8 +62,6 @@
 <div>
 <!--   <img src ="/assets/images/devops.png" alt="devops logo" width="5%" title='DEVOPS'/>  -->
   
-  <img src ="/assets/images/ansible.svg" alt="ansible logo" width="5%" title='Ansible'/>
-  
   <img src ="/assets/images/kubernetes.png" alt="kubernetes logo" width="5%" title='Kubernetes'/>
   
   <img src ="/assets/images/docker.png" alt="Docker logo" width="5%" title='Docker'/>
@@ -116,6 +114,8 @@
   <img src ="/assets/images/mx.png" alt="mx logo" width="10%" title='Cube MX'/>
 
   <img src ="/assets/images/git.svg" alt="Git logo" width="10%" title='Git'/>
+    
+  <img src ="/assets/images/ansible.svg" alt="ansible logo" width="5%" title='Ansible'/>
   
   <img src ="/assets/images/nginx.png" alt="nginx logo" width="5%" title='Nginx'/> 
   
