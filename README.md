@@ -49,6 +49,8 @@
   <img src ="/assets/images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
   
   <img src ="/assets/images/python.svg" alt="Python logo" width="5%" title='Python'/>
+
+  <img src ="/assets/images/cloudflare-workers.png" alt="Cloudflare workers logo" width="5%" title='Cloudflare Workers'/>
   
   <img src ="/assets/images/graphql.png" alt="graphql logo" width="10%" title='Graphql'/>
   
@@ -70,19 +72,19 @@
 
   <img src ="/assets/images/portainer.png" alt="Portainer logo" width="5%" title='Portainer'/>
   
-  <img src ="/assets/images/gcloud.png" alt="gcloud logo" width="5%" title='Google Cloud'/> 
+  <img src ="/assets/images/cloudflare.png" alt="Cloudflare logo" width="5%" title='Cloudflare'/> 
+
+  <img src ="/assets/images/gcloud.png" alt="Gcloud logo" width="5%" title='Google Cloud'/> 
   
   <img src ="/assets/images/digitalocean.png" alt="digitalocean logo" width="5%" title='Digitalocean Cloud'/> 
   
   <img src ="/assets/images/arvan.png" alt="arvan logo" width="5%" title='ArvanCloud | Unified Cloud Infrastructure'/> 
   
-  <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='Openshift'/>
+  <img src ="/assets/images/hamravesh.svg" alt="Hamravesh logo" width="5%" title='Hamravesh'/>
 
-  <img src ="/assets/images/git.svg" alt="Git logo" width="10%" title='Git'/>
-  
-  <img src ="/assets/images/nginx.png" alt="nginx logo" width="5%" title='Nginx'/> 
-  
-  <img src ="/assets/images/pm2.png" alt="pm2 logo" width="5%" title='PM2'/> 
+  <img src ="/assets/images/liara.svg" alt="Liara logo" width="5%" title='Liara'/>
+
+  <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='Openshift'/>
 <div> 
 
 ### Database technology
@@ -109,6 +111,12 @@
   <img src ="/assets/images/altium.png" alt="altium logo" width="5%" title='Altium Designer '/>
   
   <img src ="/assets/images/mx.png" alt="mx logo" width="10%" title='Cube MX'/>
+
+  <img src ="/assets/images/git.svg" alt="Git logo" width="10%" title='Git'/>
+  
+  <img src ="/assets/images/nginx.png" alt="nginx logo" width="5%" title='Nginx'/> 
+  
+  <img src ="/assets/images/pm2.png" alt="pm2 logo" width="5%" title='PM2'/> 
   
   <img src ="/assets/images/oop.png" alt="object oriented programming" width="5%" title='Object Oriented Programming'/>
 
