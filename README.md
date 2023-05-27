@@ -84,7 +84,7 @@
   
   <img src ="/assets/images/hamravesh.svg" alt="Hamravesh logo" width="5%" title='Hamravesh'/>
 
-  <img src ="/assets/images/liara.svg" alt="Liara logo" width="5%" title='Liara'/>
+  <img src ="/assets/images/liara.svg" alt="Liara logo" width="3%" title='Liara'/>
 
   <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='Openshift'/>
 <div> 
