@@ -100,7 +100,7 @@
 <!-- ### Database technology -->
 
 <div align="center">
-  <h2>Database technology</h2>
+  <h2>Database Technology</h2>
 
   <img src ="/assets/images/mongodb.svg" alt="MongoDB logo" width="10%" title='MongoDB'/>
   
