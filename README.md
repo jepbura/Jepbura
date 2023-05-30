@@ -197,6 +197,7 @@
 <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="/assets/images/linkedin.png" alt="linkedin logo" width="5%" title='Linkedin'/></a>
 <a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.svg" alt="twitter logo" width="5%" title='Twitter'/></a>
 <a href="https://t.me/jepbura" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
+<a href="https://t.me/Buradev_Bot" target="_blank"><img src ="/assets/images/bot.png" alt="telegram bot logo" width="5%" title='Telegram Bot'/></a>
 <a href="https://youtube.com/@jepbura" target="_blank"><img src ="/assets/images/youtube.svg" alt="youtube logo" width="5%" title='Youtube'/></a>
 </div>
   
