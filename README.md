@@ -10,9 +10,11 @@
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 --->
 
-### Embedded Systems
+<!-- ### Embedded Systems -->
 
-<div>
+<div align="center">
+  <h2>Embedded Systems</h2>
+
   <img src ="/assets/images/st.png" alt="ST logo" width="3%" title='ST'/>
   
   <img src ="/assets/images/raspberry.png" alt="Raspberry logo" width="3%" title='Raspberry Pi'/>
@@ -24,9 +26,11 @@
   <img src ="/assets/images/microchip.png" alt="Microchip logo" width="6%" title='Microchip'/>
 <div> 
 
-### Frontend Technologies
+<!-- ### Frontend Technologies -->
 
-<div>
+<div align="center">
+  <h2>Frontend Technologies</h2>
+
   <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
   
   <img src ="/assets/images/dart.png" alt="Dart logo" width="5%" title='Dart'/>
@@ -46,9 +50,11 @@
   <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="20%" title='Tailwind CSS'/>
 <div> 
   
-### Backend Technologies
+<!-- ### Backend Technologies -->
 
-<div>
+<div align="center">
+  <h2>Backend Technologies</h2>
+
   <img src ="/assets/images/shell.png" alt="Shell logo" width="5%" title='Shell'/>
 
   <img src ="/assets/images/batch.png" alt="Batch logo" width="5%" title='Batch File'/>
@@ -64,9 +70,10 @@
   <img src ="/assets/images/api.png" alt="Restful api logo" width="7%" title='Restful API'/>
 </div>
 
-### Devops Technologies
+<!-- ### Devops Technologies -->
 
-<div>
+<div align="center">
+  <h2>Devops Technologies</h2>
 <!--   <img src ="/assets/images/devops.png" alt="devops logo" width="5%" title='DEVOPS'/>  -->
   
   <img src ="/assets/images/kubernetes.png" alt="kubernetes logo" width="5%" title='Kubernetes'/>
@@ -90,9 +97,11 @@
   <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='Openshift'/>
 <div> 
 
-### Database technology
+<!-- ### Database technology -->
 
-<div>
+<div align="center">
+  <h2>Database technology</h2>
+
   <img src ="/assets/images/mongodb.svg" alt="MongoDB logo" width="10%" title='MongoDB'/>
   
   <img src ="/assets/images/mysql.svg" alt="Mysql logo" width="5%" title='MYSQL'/>
@@ -102,15 +111,18 @@
   <img src ="/assets/images/redis.png" alt="Redis logo" width="5%" title='Redis'/>
 </div>
 
-### CI/CD
+<!-- ### CI/CD -->
 
-<div>
+<div align="center">
+  <h2>CI/CD</h2>
+
   <img src ="/assets/images/jenkins.png" alt="Jenkins logo" width="5%" title='Jenkins'/>
 </div>
 
-### Tools
+<!-- ### Tools -->
 
-<div>
+<div align="center">
+  <h2>Tools</h2>
   
   <img src ="/assets/images/ubuntu.png" alt="Ubuntu logo" width="5%" title='Ubuntu'/>
 
@@ -168,13 +180,16 @@
   
 </div>
 
-  <h2 align="left">#Gi_Ba_Vene_Dele</h2>
+<div align="center">
+  <h2>#Gi_Ba_Vene_Dele</h2>
+
   <img src="/assets/gif/p.gif">
+</div>
 <!-- ![](/assets/gif/p.gif) -->
 
 ### Contact Me
 
-<div>
+<div align="center">
 <a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/web.png" alt="jepbura logo" width="5%" title='www.jepbura.ir'/></a>
 <a href="https://www.bura.dev" target="_blank"><img src ="/assets/images/web.png" alt="bura logo" width="5%" title='www.bura.dev'/></a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
