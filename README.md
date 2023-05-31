@@ -181,6 +181,12 @@
 </div>
 
 <div align="center">
+  <h2>Profile views</h2>
+
+  <a href="https://u8views.com/github/jepbura"><img src="https://u8views.com/api/v1/github/profiles/25738325/views/day-week-month-total-count.svg"></a>
+</div>
+
+<div align="center">
   <h2>#Gi_Ba_Vene_Dele</h2>
 
   <img src="/assets/gif/p.gif">
