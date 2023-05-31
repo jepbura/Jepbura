@@ -183,7 +183,7 @@
 <div align="center">
   <h2>Profile views</h2>
 
-  <a href="https://u8views.com/github/jepbura"><img src="https://u8views.com/api/v1/github/profiles/25738325/views/day-week-month-total-count.svg"></a>
+  [![Javad Ebrahim Pour Bura profile views](https://u8views.com/api/v1/github/profiles/25738325/views/day-week-month-total-count.svg)](https://u8views.com/github/jepbura)
 </div>
 
 <div align="center">
