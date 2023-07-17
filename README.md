@@ -116,7 +116,7 @@
 <div align="center">
   <h2>CI/CD</h2>
 
-  <img src ="/assets/images/githubActions.png" alt="Github Actions logo" width="5%" title='Github Actions'/>
+  <img src ="/assets/images/githubActions.png" alt="Github Actions logo" width="6%" title='Github Actions'/>
   <img src ="/assets/images/jenkins.png" alt="Jenkins logo" width="5%" title='Jenkins'/>
 </div>
 
