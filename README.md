@@ -183,10 +183,13 @@
 
 <div align="center" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
   <h2>GitHub Analytics</h2>
-
+<br/>
   <a href="https://u8views.com/github/jepbura"><img src="https://u8views.com/api/v1/github/profiles/25738325/views/day-week-month-total-count.svg"/>
     <a href="https://github.com/jepbura">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jepbura&theme=slateorange" />
+  </a>
+      <a href="https://github.com/jepbura">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jepbura&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
         <a href="https://github.com/jepbura">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jepbura&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
