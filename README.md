@@ -197,12 +197,18 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jepbura&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
     </div>
-        <a href="https://github.com/jepbura">
+    <div align="center">
+  <a href="https://github.com/jepbura">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jepbura&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jepbura&theme=slateorange" />
+  </a>
+</div>
+<!--         <a href="https://github.com/jepbura">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jepbura&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=algolia"/>
         <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jepbura&theme=algolia" alt="jepbura" />
-        </p>
+        </p> -->
 </div>
 
 <div align="center">
