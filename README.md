@@ -199,9 +199,9 @@
     </div>
     <div align="center">
   <a href="https://github.com/jepbura">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jepbura&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jepbura&layout=compact&theme=slateorange" />
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&theme=slateorange"/> -->
+    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jepbura&theme=slateorange" />
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jepbura&theme=slateorange" /> -->
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&theme=slateorange"/>
   </a>
 </div>
 <!--         <a href="https://github.com/jepbura">
