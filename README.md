@@ -199,7 +199,7 @@
     </div>
     <div align="center">
   <a href="https://github.com/jepbura">
-    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jepbura&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange" />
+    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jepbura&theme=slateorange" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=slateorange"/>
   </a>
 </div>
