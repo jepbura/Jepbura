@@ -15,15 +15,15 @@
 <div align="center">
   <h2>Embedded Systems</h2>
 
-  <img src ="/assets/images/st.png" alt="ST logo" width="5%" title='ST'/>
+  <img src ="/assets/images/st.png" alt="ST logo" width="8%" title='ST'/>
   
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" width="8%"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/>
   <!-- <img src ="/assets/images/raspberry.png" alt="Raspberry logo" width="5%" title='Raspberry Pi'/>  
   <img src ="/assets/images/arduino.png" alt="Arduino logo" width="5%" title='Arduino'/> -->
   
-  <img src ="/assets/images/atmel.png" alt="Atmel logo" width="5%" title='Atmel'/>
+  <img src ="/assets/images/atmel.png" alt="Atmel logo" width="8%" title='Atmel'/>
   
-  <img src ="/assets/images/microchip.png" alt="Microchip logo" width="6%" title='Microchip'/>
+  <img src ="/assets/images/microchip.png" alt="Microchip logo" width="8%" title='Microchip'/>
 <div> 
 
 <!-- ### Frontend Technologies -->
