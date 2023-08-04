@@ -17,7 +17,7 @@
 
   <img src ="/assets/images/st.png" alt="ST logo" width="5%" title='ST'/>
   
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" width="5%"/>
   <!-- <img src ="/assets/images/raspberry.png" alt="Raspberry logo" width="5%" title='Raspberry Pi'/>  
   <img src ="/assets/images/arduino.png" alt="Arduino logo" width="5%" title='Arduino'/> -->
   
