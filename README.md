@@ -32,7 +32,7 @@
   <h2>Frontend Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dart,flutter,javascript,react,gatsby,html,css,tailwind,materialui,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=c,dart,flutter,javascript,react,ts,gatsby,html,css,tailwind,materialui,bootstrap" />
   </a>
 </p>
   
@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,py,nodejs,graphql,workers" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,py,nodejs,graphql,workers,firebase" />
   </a>
 </p>
  <!-- 
@@ -74,7 +74,7 @@
   <h2>Devops Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,gcp,cloudflare,openshift,nginx" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,gcp,cloudflare,vercel,heroku,openshift,nginx,webpack" />
   </a>
 </p>
   <img src ="/assets/images/digitalocean.png" alt="Digitalocean logo" width="5%" title='Digitalocean Cloud'/> 
@@ -113,7 +113,7 @@
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+    <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins" />
   </a>
 </p>
  <!-- <img src ="/assets/images/githubActions.png" alt="Github Actions logo" width="6%" title='Github Actions'/>
@@ -128,7 +128,7 @@
   <img src ="/assets/images/CentOS.png" alt="CentOS logo" width="5%" title='CentOS'/>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,jest,postman,webpack,xd" />
+    <img src="https://skillicons.dev/icons?i=linux,git,gitlab,jest,postman,webpack,xd" />
   </a>
 </p>
   <img src ="/assets/images/oop.png" alt="Object oriented programming" width="5%" title='Object Oriented Programming'/>
