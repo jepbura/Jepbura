@@ -131,7 +131,7 @@
     <img src="https://skillicons.dev/icons?i=linux,git,gitlab,jest,postman,webpack,xd" />
   </a>
   <img src ="/assets/images/oop.png" alt="Object oriented programming" width="5%" title='Object Oriented Programming'/>
-  <img src ="/assets/images/unitTest.png" alt="Unit Test logo" width="5%" title='Unit Test'/>
+  <img src ="/assets/images/unitTest.png" alt="Unit Test logo" width="4%" title='Unit Test'/>
 </p>
  <!--
   <img src ="/assets/images/altium.png" alt="altium logo" width="5%" title='Altium Designer '/>
