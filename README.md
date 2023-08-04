@@ -30,24 +30,21 @@
 
 <div align="center">
   <h2>Frontend Technologies</h2>
-
-  <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,dart,flutter,javascript,react,gatsby,html,css,tailwind" />
+  </a>
+</p>
   
+ <!-- <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
   <img src ="/assets/images/dart.png" alt="Dart logo" width="5%" title='Dart'/>
-  
   <img src ="/assets/images/flutter.png" alt="Flutter logo" width="4%" title='Flutter'/>
-  
   <img src ="/assets/images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
-  
   <img src ="/assets/images/react.svg" alt="React logo" width="4%" title='React'/>
-  
   <img src ="/assets/images/gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
-  
   <img src ="/assets/images/html.png" alt="HTML logo" width="5%" title='HTML'/>
-  
   <img src ="/assets/images/css.png" alt="CSS logo" width="5%" title='CSS'/>
-  
-  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="20%" title='Tailwind CSS'/>
+  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="20%" title='Tailwind CSS'/> -->
 <div> 
   
 <!-- ### Backend Technologies -->
