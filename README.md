@@ -124,15 +124,15 @@
 
 <div align="center">
   <h2>Tools</h2>
+  <p align="center">
   <img src ="/assets/images/ubuntu.png" alt="Ubuntu logo" width="5%" title='Ubuntu'/>
   <img src ="/assets/images/CentOS.png" alt="CentOS logo" width="5%" title='CentOS'/>
-  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,gitlab,jest,postman,webpack,xd" />
   </a>
-</p>
   <img src ="/assets/images/oop.png" alt="Object oriented programming" width="5%" title='Object Oriented Programming'/>
   <img src ="/assets/images/unitTest.png" alt="Unit Test logo" width="5%" title='Unit Test'/>
+</p>
  <!--
   <img src ="/assets/images/altium.png" alt="altium logo" width="5%" title='Altium Designer '/>
   <img src ="/assets/images/mx.png" alt="mx logo" width="10%" title='Cube MX'/>
