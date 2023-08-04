@@ -19,7 +19,8 @@
   
   <img src ="/assets/images/raspberry.png" alt="Raspberry logo" width="5%" title='Raspberry Pi'/>
   
-  <img src ="/assets/images/arduino.png" alt="Arduino logo" width="5%" title='Arduino'/>
+  <!-- <img src ="/assets/images/arduino.png" alt="Arduino logo" width="5%" title='Arduino'/> -->
+  <img src="https://skillicons.dev/icons?i=arduino" />
   
   <img src ="/assets/images/atmel.png" alt="Atmel logo" width="5%" title='Atmel'/>
   
