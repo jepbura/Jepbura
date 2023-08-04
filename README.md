@@ -54,11 +54,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src ="/assets/images/shell.png" alt="Shell logo" width="5%" title='Shell'/>
     <img src="https://skillicons.dev/icons?i=bash,powershell,py,nodejs,graphql,workers" />
   </a>
 </p>
  <!-- 
+  <img src ="/assets/images/shell.png" alt="Shell logo" width="5%" title='Shell'/>
   <img src ="/assets/images/batch.png" alt="Batch logo" width="5%" title='Batch File'/>
   <img src ="/assets/images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
   <img src ="/assets/images/python.svg" alt="Python logo" width="5%" title='Python'/>
