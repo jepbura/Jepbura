@@ -171,7 +171,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jepbura&theme=slateorange" />
   </a>
 </div>
-<!-- <div align="center">
+ <div align="center">
       <a href="https://github.com/jepbura">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jepbura&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
@@ -181,7 +181,7 @@
     <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jepbura&theme=slateorange" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=slateorange"/>
   </a>
-</div> -->
+</div> 
 <!--         <a href="https://github.com/jepbura">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jepbura&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=algolia"/>
