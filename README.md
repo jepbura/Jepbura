@@ -32,7 +32,7 @@
   <img src ="/assets/images/atmel.png" alt="Atmel logo" width="8%" title='Atmel'/>
   
   <img src ="/assets/images/microchip.png" alt="Microchip logo" width="8%" title='Microchip'/>
-<div> 
+<div>
 
 <!-- ### Frontend Technologies -->
 
@@ -44,6 +44,17 @@
   </a>
 </p>
   
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=007396)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=00599C)
+![Html](https://img.shields.io/badge/-Html-000?&logo=Html)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+
  <!-- <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
   <img src ="/assets/images/dart.png" alt="Dart logo" width="5%" title='Dart'/>
   <img src ="/assets/images/flutter.png" alt="Flutter logo" width="4%" title='Flutter'/>
@@ -101,7 +112,7 @@
   <img src ="/assets/images/gcloud.png" alt="Gcloud logo" width="5%" title='Google Cloud'/> 
   <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='Openshift'/> 
   -->
-<div> 
+<div>
 
 <!-- ### Database technology -->
 
