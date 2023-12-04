@@ -124,17 +124,30 @@
 </table>
 </div>
 
-<div align="center" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
-  <h2>GitHub Analytics</h2>
 <br/>
-<div align="center">
-  <a href="https://u8views.com/github/jepbura"><img src="https://u8views.com/api/v1/github/profiles/25738325/views/day-week-month-total-count.svg"/>
-</div>
-<div align="center">
-    <a href="https://github.com/jepbura">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jepbura&theme=slateorange" />
-  </a>
-</div>
+
+<div align="center" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
+  <table>
+    <tr>
+      <th><div align="center"><h3>GitHub Analytics</h3></div></th>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://u8views.com/github/jepbura"><img src="https://u8views.com/api/v1/github/profiles/25738325/views/day-week-month-total-count.svg"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <a href="https://github.com/jepbura">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jepbura&theme=slateorange" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 <!-- <div align="center">
       <a href="https://github.com/jepbura">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jepbura&theme=rising-sun&hide_border=true&exclude_days=Sun" />
@@ -153,6 +166,8 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jepbura&theme=algolia" alt="jepbura" />
         </p> -->
 </div>
+
+<br/>
 
 <div align="center">
   <table>
