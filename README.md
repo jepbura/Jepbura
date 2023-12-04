@@ -52,7 +52,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=00599C)
-![Html](https://img.shields.io/badge/-Html-000?&logo=Html)
+![html](https://img.shields.io/badge/-html-000?&logo=html)
 ![css](https://img.shields.io/badge/-css-000?&logo=css)
 
  <!-- <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
