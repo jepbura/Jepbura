@@ -304,10 +304,13 @@
 
   <img src="/assets/gif/p.gif">
 </div>
-<!-- ![](/assets/gif/p.gif) -->
 
-### Contact Me
-
+<table>
+<tr>
+<th><div align="center"><h3>Contact Me</h3></div></th>
+</tr>
+<tr>
+<td>
 <div align="center">
 
 <a href="https://www.jepbura.ir"><img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="Jepbura logo" title='www.jepbura.ir'/></a>
@@ -321,11 +324,7 @@
 <a href="https://youtube.com/@jepbura" target="_blank"><img src ="https://img.shields.io/badge/YouTube-000?&logo=YouTube&logoColor=white" alt="youtube logo" title='Youtube'/></a>
 
 </div>
-  
-<!---
-- [Website](https://www.jepbura.ir "www.jepbura.ir")
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jepbura&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
---->
+</td>
+</tr>
+</table>
