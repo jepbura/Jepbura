@@ -277,7 +277,7 @@
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Facebook-000?&logo=Facebook&logoColor=white" alt="facebook logo" title='Facebook'/></a>
 <a href="https://www.instagram.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Instagram-000?&logo=Instagram&logoColor=white" alt="instagram logo" title='Instagram'/></a>
 <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="https://img.shields.io/badge/linkedin-000?&logo=linkedin&logoColor=white" alt="linkedin logo" title='Linkedin'/></a>
-<a href="https://twitter.com/jepbura" target="_blank"><img src ="https://img.shields.io/twitter/follow/MUI_hq.svg-000?label=follow+Jepbura&logoColor=white" alt="twitter logo" title='Twitter'/></a>
+<a href="https://twitter.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Twitter-000?&logo=twitter&logoColor=white" alt="twitter logo" title='Twitter'/></a>
 <a href="https://t.me/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Telegram-000?&logo=telegram&logoColor=white" alt="telegram logo" title='Telegram'/></a>
 <a href="https://t.me/Buradev_Bot" target="_blank"><img src ="https://img.shields.io/badge/Telegram%20Bot-000?&logo=godot-engine&logoColor=white" alt="telegram bot logo" title='Telegram Bot'/></a>
 <a href="https://youtube.com/@jepbura" target="_blank"><img src ="https://img.shields.io/badge/YouTube-000?&logo=YouTube&logoColor=white" alt="youtube logo" title='Youtube'/></a>
