@@ -84,11 +84,11 @@
 </tr>
 
 <tr>
-<th><div align="center"><h1>
+<th><div align="center">
 
 ![DB](https://img.shields.io/badge/Database%20Technology-f03c15)
 
-</h1></div></th>
+</div></th>
 <th><div align="center"><h3>CI/CD</h3></div></th>
 </tr>
 <tr>
