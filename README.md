@@ -80,7 +80,11 @@
 
 <div align="center">
   <h2>Devops Technologies</h2>
-  <p align="center">
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+
+  <!-- <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,gcp,cloudflare,vercel,heroku,openshift,nginx,webpack" />
   </a>
@@ -89,13 +93,14 @@
   <img src ="/assets/images/arvan.png" alt="Arvan logo" width="5%" title='ArvanCloud | Unified Cloud Infrastructure'/> 
   <img src ="/assets/images/hamravesh.svg" alt="Hamravesh logo" width="5%" title='Hamravesh'/>
   <img src ="/assets/images/liara.svg" alt="Liara logo" width="10%" title='Liara'/>
-  <!--   <img src ="/assets/images/devops.png" alt="devops logo" width="5%" title='DEVOPS'/> 
+  <img src ="/assets/images/devops.png" alt="devops logo" width="5%" title='DEVOPS'/> 
   <img src ="/assets/images/kubernetes.png" alt="kubernetes logo" width="5%" title='Kubernetes'/>
   <img src ="/assets/images/docker.png" alt="Docker logo" width="5%" title='Docker'/>
   <img src ="/assets/images/portainer.png" alt="Portainer logo" width="5%" title='Portainer'/>
   <img src ="/assets/images/cloudflare.png" alt="Cloudflare logo" width="5%" title='Cloudflare'/> 
   <img src ="/assets/images/gcloud.png" alt="Gcloud logo" width="5%" title='Google Cloud'/> 
-  <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='Openshift'/> -->
+  <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='Openshift'/> 
+  -->
 <div> 
 
 <!-- ### Database technology -->
