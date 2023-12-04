@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jepbura&data=repositories,stars,commits&theme=carbon)](https://github.com/jepbura)
+<a href="https://www.jepbura.ir" target="_blank"><img src="https://github-widgetbox.vercel.app/api/profile?username=jepbura&data=repositories,stars,commits&theme=carbon" alt="jepbura logo" title='www.jepbura.ir'/></a>
 </div>
 
 <br/>
