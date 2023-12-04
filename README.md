@@ -101,16 +101,16 @@
 <div align="center">
   <h2>Devops Technologies</h2>
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=Kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
-![ArvanCloud](https://img.shields.io/badge/-☁️%20ArvanCloud-000?&logo=GoogleCloud&logoColor=white)
-![Hamravesh](https://img.shields.io/badge/-🛞%20Hamravesh-000?&logo=cloud&logoColor=white)
-![Liara](https://img.shields.io/badge/-☁️%20Liara-000?&logo=cloud&logoColor=white)
+![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=white)
+![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=white)
+![Liara](https://img.shields.io/badge/Liara-000?&logo=Kubernetes&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000?&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-000?&logo=heroku&logoColor=white)
