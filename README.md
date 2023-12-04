@@ -15,33 +15,41 @@
 <div align="center">
 <table>
 <tr>
-<th><div align="center"><h3>Embedded Systems</h3></div></th>
-<th><div align="center"><h3>Frontend Technologies</h3></div></th>
+<th><div align="center"><h3>
+
+![EM](https://img.shields.io/badge/Embedded%20Systems-3ECF8E)
+
+</h3></div></th>
+<th><div align="center"><h3>
+
+![FT](https://img.shields.io/badge/Frontend%20Technologies-FF00A0)
+
+</h3></div></th>
 </tr>
 <tr>
 <td>
 
-![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=white)
-![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=white)
-![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=white)
+![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=3ECF8E)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=3ECF8E)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=3ECF8E)
+![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=3ECF8E)
+![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=3ECF8E)
 
 </td>
 <td>
 
-![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-000?&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-000?&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=FF00A0)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FF00A0)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=FF00A0)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=FF00A0)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=FF00A0)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=FF00A0)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=FF00A0)
+![HTML](https://img.shields.io/badge/HTML-000?&logo=html5&logoColor=FF00A0)
+![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&logoColor=FF00A0)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css&logoColor=FF00A0)
+![MUI](https://img.shields.io/badge/MUI-000?&logo=mui&logoColor=FF00A0)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=FF00A0)
 
 </td>
 </tr>
