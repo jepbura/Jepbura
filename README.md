@@ -108,10 +108,10 @@
 ![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
-![ArvanCloud](https://img.shields.io/badge/-☁️%20ArvanCloud-000?&logoColor=red)
+![ArvanCloud](https://img.shields.io/badge/-☁️%20ArvanCloud-000?&logoColor=white)
 ![Hamravesh](https://img.shields.io/badge/-☁️%20Hamravesh-000?&logoColor=white)
 ![Liara](https://img.shields.io/badge/-☁️%20Liara-000?&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean&logoColor=red)
 ![Vercel](https://img.shields.io/badge/vercel-000?&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-000?&logo=heroku&logoColor=white)
 
