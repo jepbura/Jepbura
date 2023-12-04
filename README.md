@@ -20,7 +20,7 @@
 | <div align="center"><h3>Backend Technologies</h3></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | <div align="center"><h3>Devops Technologies</h3></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-000?&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-000?&logo=python&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-000?&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-000?&logo=firebase&logoColor=white) ![Workers](https://img.shields.io/badge/Workers-000?&logo=Cloudflare&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-000?&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=Kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-000?&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-colab&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white) ![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=white) ![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=white) ![Liara](https://img.shields.io/badge/Liara-000?&logo=Kubernetes&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000?&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-000?&logo=heroku&logoColor=white) |
 | <div align="center"><h3>Database Technology</h3></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | <div align="center"><h3>CI/CD</h3></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=white)                                                                                                                                                                                                                                                                                            |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=white)                                                                                                                                                                                                                                                                                            | ![GitHub Actions](https://img.shields.io/badge/github%20actions-000?&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-000?&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-000?&logo=jenkins&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 </div>
 
@@ -44,7 +44,6 @@
     <img src="https://skillicons.dev/icons?i=c,dart,flutter,javascript,react,ts,gatsby,html,css,tailwind,materialui,bootstrap" />
   </a>
 </p>
--->
  <!-- <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
   <img src ="/assets/images/dart.png" alt="Dart logo" width="5%" title='Dart'/>
   <img src ="/assets/images/flutter.png" alt="Flutter logo" width="4%" title='Flutter'/>
@@ -53,8 +52,8 @@
   <img src ="/assets/images/gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
   <img src ="/assets/images/html.png" alt="HTML logo" width="5%" title='HTML'/>
   <img src ="/assets/images/css.png" alt="CSS logo" width="5%" title='CSS'/>
-  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="20%" title='Tailwind CSS'/> 
-<div> 
+  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="20%" title='Tailwind CSS'/>
+<div>
 -->
 
 <!--
@@ -66,15 +65,13 @@
     <img src="https://skillicons.dev/icons?i=bash,powershell,py,nodejs,graphql,workers,firebase" />
   </a>
 </p>
--->
- <!-- 
   <img src ="/assets/images/shell.png" alt="Shell logo" width="5%" title='Shell'/>
   <img src ="/assets/images/batch.png" alt="Batch logo" width="5%" title='Batch File'/>
   <img src ="/assets/images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
   <img src ="/assets/images/python.svg" alt="Python logo" width="5%" title='Python'/>
   <img src ="/assets/images/cloudflare-workers.png" alt="Cloudflare workers logo" width="5%" title='Cloudflare Workers'/>
   <img src ="/assets/images/graphql.png" alt="Graphql logo" width="10%" title='Graphql'/>
-  <img src ="/assets/images/api.png" alt="Restful api logo" width="7%" title='Restful API'/> 
+  <img src ="/assets/images/api.png" alt="Restful api logo" width="7%" title='Restful API'/>
 </div>
 -->
 
@@ -98,12 +95,12 @@
   <img src ="/assets/images/gcloud.png" alt="Gcloud logo" width="5%" title='Google Cloud'/>
   <img src ="/assets/images/openshift.png" alt="Openshift logo" width="5%" title='Openshift'/>
 <div>
-  -->
+-->
 
+<!--
 <div align="center">
   <h2>Database Technology</h2>
 
-  <!--  
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis" />
@@ -113,17 +110,12 @@
 <!--  <img src ="/assets/images/mongodb.svg" alt="MongoDB logo" width="10%" title='MongoDB'/>
   <img src ="/assets/images/mysql.svg" alt="Mysql logo" width="5%" title='MYSQL'/>
   <img src ="/assets/images/sqlite.svg" alt="Sqlite logo" width="7%" title='Sqlite'/>
-  <img src ="/assets/images/redis.png" alt="Redis logo" width="5%" title='Redis'/> -->
+  <img src ="/assets/images/redis.png" alt="Redis logo" width="5%" title='Redis'/>
 </div>
-
-<!-- ### CI/CD -->
+-->
 
 <div align="center">
   <h2>CI/CD</h2>
-  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-000?&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-000?&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-000?&logo=jenkins&logoColor=white)
 
 <!--
   <p align="center">
