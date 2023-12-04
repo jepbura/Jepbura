@@ -114,18 +114,22 @@
 </tr>
 
 <tr>
-<th colspan="2"><div align="center"><h3>Tools</h3></div></th>
+<th colspan="2"><div align="center"><h3>
+
+![Tools](https://img.shields.io/badge/Tools-FF6719)
+
+</h3></div></th>
 </tr>
 
 <tr>
 <td colspan="2">
 
-![Linux](https://img.shields.io/badge/Linux-000?&logo=linux&logoColor=black)
-![Wear OS](https://img.shields.io/badge/-Wear%20OS-000?&logo=wear-os&logoColor=white)
-![Git](https://img.shields.io/badge/git-000?&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-000?&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-000?&logo=gitlab&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-000?&logo=testing-library&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?&logo=linux&logoColor=FF6719)
+![Wear OS](https://img.shields.io/badge/-Wear%20OS-000?&logo=wear-os&logoColor=FF6719)
+![Git](https://img.shields.io/badge/git-000?&logo=git&logoColor=FF6719)
+![GitHub](https://img.shields.io/badge/github-000?&logo=github&logoColor=FF6719)
+![GitLab](https://img.shields.io/badge/gitlab-000?&logo=gitlab&logoColor=FF6719)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-000?&logo=testing-library&logoColor=FF6719)
 
 </td>
 </tr>
