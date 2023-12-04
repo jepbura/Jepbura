@@ -94,10 +94,10 @@
 <tr>
 <td>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=9999FF)
+![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=9999FF)
+![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=9999FF)
+![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=9999FF)
 
 </td>
 <td>
