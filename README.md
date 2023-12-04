@@ -84,8 +84,8 @@
 </tr>
 
 <tr>
-<th><div align="center"><h3>Database Technology</h3></div></th>
-<th><div align="center"><h3>CI/CD</h3></div></th>
+<th><div align="center"><h3><font color="red">Database Technology</font></h3></div></th>
+<th><div align="center"><h3><font color="red">CI/CD</font></h3></div></th>
 </tr>
 <tr>
 <td>
@@ -172,7 +172,7 @@
 <div align="center">
   <table>
     <tr>
-      <th><div align="center"><h3>Contact Me</h3></div></th>
+      <th><div align="center"><h2>Contact Me</h2></div></th>
     </tr>
     <tr>
       <td>
