@@ -85,7 +85,7 @@
 ![Python](https://img.shields.io/badge/python-000?&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-000?&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-000?&logo=firebase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Workers-000?&logo=Cloudflare&logoColor=white)
+![Workers](https://img.shields.io/badge/Workers-000?&logo=Cloudflare&logoColor=white)
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-000?&logoColor=white)
 
 <!--
@@ -118,7 +118,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-000?&logo=googlecolab&color=white)
+![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-colab&color=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
 ![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=white)
 ![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=white)
