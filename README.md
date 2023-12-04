@@ -55,7 +55,7 @@
 ![HTML](https://img.shields.io/badge/HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css&logoColor=007396)
-![Materialui](https://img.shields.io/badge/-Materialui-000?&logo=Materialui&logoColor=00599C)
+![Materialui](https://img.shields.io/badge/Material--UI-000?&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
  <!-- <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
