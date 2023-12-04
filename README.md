@@ -154,7 +154,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" width="100%" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
   <table>
     <tr>
       <th><div align="center"><h3>GitHub Analytics</h3></div></th>
