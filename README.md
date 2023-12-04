@@ -6,13 +6,13 @@
 
 <br/>
 
+<p align="center">Hi there to all of you. I'm from Iran, and my name is Javad. I have over ten years of experience in hardware programming and circuit design as an inventor and electronic engineer. I have effectively led a number of difficult projects to completion over the years by utilizing both my technical expertise and creative thinking. Apart from my proficiency in electronics, I have over 5 years of experience in creating and developing various kinds of software.</p>
+
 <div align="center">
 <a href="https://www.jepbura.ir" target="_blank"><img src="https://github-widgetbox.vercel.app/api/profile?username=jepbura&data=repositories,stars,commits&theme=carbon" alt="jepbura logo" title='www.jepbura.ir'/></a>
 </div>
 
 <br/>
-
-<p align="center">Hello everyone, my name is Javad Ebrahimpour Bura and I'm from Babol, Iran. I am an inventor and electronic engineer with more than 10 years of experience in circuit design and hardware programming. Over the years, I have successfully led various challenging projects to completion, leveraging my innovative mindset and technical skills. In addition to my expertise in electronics, I have also been involved in designing and developing different types of software for around 5 years.</p>
 
 <!---
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
