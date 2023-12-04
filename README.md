@@ -155,12 +155,6 @@
 </div>
 
 <div align="center">
-  <h2>#Gi_Ba_Vene_Dele</h2>
-
-  <img src="/assets/gif/p.gif">
-</div>
-
-<div align="center">
   <table>
     <tr>
       <th><div align="center"><h3>Contact Me</h3></div></th>
@@ -177,6 +171,16 @@
           <a href="https://t.me/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Telegram-000?&logo=telegram&logoColor=white" alt="telegram logo" title='Telegram'/></a>
           <a href="https://t.me/Buradev_Bot" target="_blank"><img src ="https://img.shields.io/badge/Telegram%20Bot-000?&logo=godot-engine&logoColor=white" alt="telegram bot logo" title='Telegram Bot'/></a>
           <a href="https://youtube.com/@jepbura" target="_blank"><img src ="https://img.shields.io/badge/YouTube-000?&logo=YouTube&logoColor=white" alt="youtube logo" title='Youtube'/></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th><div align="center"><h3>Gi Ba Vene Dele</h3></div></th>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="/assets/gif/p.gif">
         </div>
       </td>
     </tr>
