@@ -4,6 +4,12 @@
   <img src="/assets/gif/bg.gif" width="75%">
 </div>
 
+<br/>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jepbura&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/jepbura)
+
+<br/>
+
 <p align="center">Hello everyone, my name is Javad Ebrahimpour Bura and I'm from Babol, Iran. I am an inventor and electronic engineer with more than 10 years of experience in circuit design and hardware programming. Over the years, I have successfully led various challenging projects to completion, leveraging my innovative mindset and technical skills. In addition to my expertise in electronics, I have also been involved in designing and developing different types of software for around 5 years.</p>
 
 <!---
