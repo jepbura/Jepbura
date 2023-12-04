@@ -271,12 +271,10 @@
 ### Contact Me
 
 <div align="center">
-<a href="https://www.jepbura.ir">
-<!-- <img src ="/assets/images/web.png" alt="jepbura logo" width="5%" title='www.jepbura.ir'/> -->
-<img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="jepbura logo" title='www.jepbura.ir'/>
-</a>
+
+<a href="https://www.jepbura.ir"><img src ="https://img.shields.io/badge/website-000?&logo=Internet%20Explore&logoColor=white" alt="Jepbura logo" title='www.jepbura.ir'/></a>
 <a href="https://www.bura.dev">
-<img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="bura logo" title='www.bura.dev'/>
+<img src ="https://img.shields.io/badge/website-000?&logo=Internet%20Explore&logoColor=white" alt="Bura logo" title='www.bura.dev'/>
 </a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
 <a href="https://www.instagram.com/jepbura" target="_blank"><img src ="/assets/images/instagram.png" alt="instagram logo" width="5%" title='Instagram'/></a>
