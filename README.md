@@ -105,7 +105,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=black)
+![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
 ![ArvanCloud](https://img.shields.io/badge/-☁️%20ArvanCloud-000)
