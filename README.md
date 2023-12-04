@@ -110,7 +110,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-cloud&color=white)
+![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-colab&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
 ![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=white)
 ![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=white)
@@ -279,7 +279,7 @@
 <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="https://img.shields.io/badge/linkedin-000?&logo=linkedin&logoColor=white" alt="linkedin logo" title='Linkedin'/></a>
 <a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.svg" alt="twitter logo" title='Twitter'/></a>
 <a href="https://t.me/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Telegram-000?&logo=telegram&logoColor=white" alt="telegram logo" title='Telegram'/></a>
-<a href="https://t.me/Buradev_Bot" target="_blank"><img src ="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?&logo=godot-engine&logoColor=white" alt="telegram bot logo" title='Telegram Bot'/></a>
+<a href="https://t.me/Buradev_Bot" target="_blank"><img src ="https://img.shields.io/badge/Telegram%20Bot-000?&logo=godot-engine&logoColor=white" alt="telegram bot logo" title='Telegram Bot'/></a>
 <a href="https://youtube.com/@jepbura" target="_blank"><img src ="https://img.shields.io/badge/YouTube-000?&logo=YouTube&logoColor=white" alt="youtube logo" title='Youtube'/></a>
 
 </div>
