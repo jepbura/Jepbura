@@ -47,38 +47,46 @@
 </tr>
 
 <tr>
-<th><div align="center"><h3>Backend Technologies</h3></div></th>
-<th><div align="center"><h3>Devops Technologies</h3></div></th>
+<th><div align="center"><h3>
+
+![BT](https://img.shields.io/badge/Backend%20Technologies-0AC18E)
+
+</h3></div></th>
+<th><div align="center"><h3>
+
+![DT](https://img.shields.io/badge/Devops%20Technologies-0078D4)
+
+</h3></div></th>
 </tr>
 <tr>
 <td>
 
-![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-000?&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-000?&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-000?&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-000?&logo=firebase&logoColor=white)
-![Workers](https://img.shields.io/badge/Workers-000?&logo=Cloudflare&logoColor=white)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-000?&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=0AC18E)
+![PowerShell](https://img.shields.io/badge/PowerShell-000?&logo=powershell&logoColor=0AC18E)
+![Python](https://img.shields.io/badge/python-000?&logo=python&logoColor=0AC18E)
+![NodeJS](https://img.shields.io/badge/node.js-000?&logo=node.js&logoColor=0AC18E)
+![Firebase](https://img.shields.io/badge/firebase-000?&logo=firebase&logoColor=0AC18E)
+![Workers](https://img.shields.io/badge/Workers-000?&logo=Cloudflare&logoColor=0AC18E)
+![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-000?&logoColor=0AC18E)
 
 </td>
 <td>
 
-![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=Kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-000?&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-colab&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
-![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=white)
-![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=white)
-![Liara](https://img.shields.io/badge/Liara-000?&logo=Kubernetes&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000?&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-000?&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker&logoColor=0078D4)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=Kubernetes&logoColor=0078D4)
+![Terraform](https://img.shields.io/badge/terraform-000?&logo=terraform&logoColor=0078D4)
+![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=0078D4)
+![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=0078D4)
+![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=0078D4)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=0078D4)
+![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-colab&logoColor=0078D4)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=0078D4)
+![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=0078D4)
+![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=0078D4)
+![Liara](https://img.shields.io/badge/Liara-000?&logo=Kubernetes&logoColor=0078D4)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean&logoColor=0078D4)
+![Vercel](https://img.shields.io/badge/vercel-000?&logo=vercel&logoColor=0078D4)
+![Heroku](https://img.shields.io/badge/heroku-000?&logo=heroku&logoColor=0078D4)
 
 </td>
 </tr>
