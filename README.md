@@ -114,17 +114,17 @@
 <tr>
 <td>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=DA1F26)
-![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=DA1F26)
-![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=DA1F26)
-![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=DA1F26)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=9999FF)
+![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=9999FF)
+![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=9999FF)
+![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=9999FF)
 
 </td>
 <td>
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-000?&logo=githubactions&logoColor=49021F)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-000?&logo=gitlab&logoColor=49021F)
-![Jenkins](https://img.shields.io/badge/jenkins-000?&logo=jenkins&logoColor=49021F)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-000?&logo=githubactions&logoColor=DA1F26)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-000?&logo=gitlab&logoColor=DA1F26)
+![Jenkins](https://img.shields.io/badge/jenkins-000?&logo=jenkins&logoColor=DA1F26)
 
 </td>
 </tr>
@@ -205,15 +205,15 @@
     <tr>
       <td>
         <div align="center">
-          <a href="https://www.jepbura.ir"><img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="Jepbura logo" title='www.jepbura.ir'/></a>
-          <a href="https://www.bura.dev"><img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="Bura logo" title='www.bura.dev'/></a>
-          <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Facebook-000?&logo=Facebook&logoColor=white" alt="facebook logo" title='Facebook'/></a>
-          <a href="https://www.instagram.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Instagram-000?&logo=Instagram&logoColor=white" alt="instagram logo" title='Instagram'/></a>
-          <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="https://img.shields.io/badge/linkedin-000?&logo=linkedin&logoColor=white" alt="linkedin logo" title='Linkedin'/></a>
-          <a href="https://twitter.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Twitter-000?&logo=twitter&logoColor=white" alt="twitter logo" title='Twitter'/></a>
-          <a href="https://t.me/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Telegram-000?&logo=telegram&logoColor=white" alt="telegram logo" title='Telegram'/></a>
-          <a href="https://t.me/Buradev_Bot" target="_blank"><img src ="https://img.shields.io/badge/Telegram%20Bot-000?&logo=godot-engine&logoColor=white" alt="telegram bot logo" title='Telegram Bot'/></a>
-          <a href="https://youtube.com/@jepbura" target="_blank"><img src ="https://img.shields.io/badge/YouTube-000?&logo=YouTube&logoColor=white" alt="youtube logo" title='Youtube'/></a>
+          <a href="https://www.jepbura.ir"><img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=7D929E" alt="Jepbura logo" title='www.jepbura.ir'/></a>
+          <a href="https://www.bura.dev"><img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=7D929E" alt="Bura logo" title='www.bura.dev'/></a>
+          <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Facebook-000?&logo=Facebook&logoColor=7D929E" alt="facebook logo" title='Facebook'/></a>
+          <a href="https://www.instagram.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Instagram-000?&logo=Instagram&logoColor=7D929E" alt="instagram logo" title='Instagram'/></a>
+          <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="https://img.shields.io/badge/linkedin-000?&logo=linkedin&logoColor=7D929E" alt="linkedin logo" title='Linkedin'/></a>
+          <a href="https://twitter.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Twitter-000?&logo=twitter&logoColor=7D929E" alt="twitter logo" title='Twitter'/></a>
+          <a href="https://t.me/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Telegram-000?&logo=telegram&logoColor=7D929E" alt="telegram logo" title='Telegram'/></a>
+          <a href="https://t.me/Buradev_Bot" target="_blank"><img src ="https://img.shields.io/badge/Telegram%20Bot-000?&logo=godot-engine&logoColor=7D929E" alt="telegram bot logo" title='Telegram Bot'/></a>
+          <a href="https://youtube.com/@jepbura" target="_blank"><img src ="https://img.shields.io/badge/YouTube-000?&logo=YouTube&logoColor=7D929E" alt="youtube logo" title='Youtube'/></a>
         </div>
       </td>
     </tr>
