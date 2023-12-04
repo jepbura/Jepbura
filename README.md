@@ -17,7 +17,7 @@
 <tr>
 <th><div align="center"><h3>
 
-![EM](https://img.shields.io/badge/Embedded%20Systems-3ECF8E)
+![EM](https://img.shields.io/badge/Embedded%20Systems-EEF37B)
 
 </h3></div></th>
 <th><div align="center"><h3>
@@ -29,11 +29,11 @@
 <tr>
 <td>
 
-![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=3ECF8E)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=3ECF8E)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=3ECF8E)
-![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=3ECF8E)
-![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=3ECF8E)
+![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=EEF37B)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=EEF37B)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=EEF37B)
+![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=EEF37B)
+![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=EEF37B)
 
 </td>
 <td>
