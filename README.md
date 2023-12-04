@@ -1,5 +1,3 @@
-<!-- <h1 align="left">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1> -->
-
 <div align="center">
   <img src="/assets/gif/bg.gif" width="75%">
 </div>
@@ -13,12 +11,6 @@
 </div>
 
 <br/>
-
-<!---
-![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
---->
-
-<!-- ### Embedded Systems raspberrypi -->
 
 <div align="center">
   <h2>Embedded Systems</h2>
@@ -43,13 +35,6 @@
 
 <div align="center">
 <h2>Frontend Technologies</h2>
-<!-- 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dart,flutter,javascript,react,ts,gatsby,html,css,tailwind,materialui,bootstrap" />
-  </a>
-</p>
--->
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white)
@@ -64,6 +49,13 @@
 ![MUI](https://img.shields.io/badge/MUI-000?&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=white)
 
+<!--
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,dart,flutter,javascript,react,ts,gatsby,html,css,tailwind,materialui,bootstrap" />
+  </a>
+</p>
+-->
  <!-- <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
   <img src ="/assets/images/dart.png" alt="Dart logo" width="5%" title='Dart'/>
   <img src ="/assets/images/flutter.png" alt="Flutter logo" width="4%" title='Flutter'/>
@@ -118,7 +110,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-colab&color=white)
+![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-cloud&color=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
 ![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=white)
 ![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=white)
@@ -193,6 +185,15 @@
 
 <div align="center">
   <h2>Tools</h2>
+
+![Linux](https://img.shields.io/badge/Linux-000?&logo=linux&logoColor=black)
+![Wear OS](https://img.shields.io/badge/-Wear%20OS-000?&logo=wear-os&logoColor=white)
+![Git](https://img.shields.io/badge/git-000?&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-000?&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-000?&logo=gitlab&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-000?&logo=testing-library&logoColor=white)
+
+<!--
   <p align="center">
   <img src ="/assets/images/ubuntu.png" alt="Ubuntu logo" width="5%" title='Ubuntu'/>
   <img src ="/assets/images/CentOS.png" alt="CentOS logo" width="5%" title='CentOS'/>
@@ -202,6 +203,7 @@
   <img src ="/assets/images/oop.png" alt="Object oriented programming" width="4%" title='Object Oriented Programming'/>
   <img src ="/assets/images/unitTest.png" alt="Unit Test logo" width="4%" title='Unit Test'/>
 </p>
+-->
  <!--
   <img src ="/assets/images/altium.png" alt="altium logo" width="5%" title='Altium Designer '/>
   <img src ="/assets/images/mx.png" alt="mx logo" width="10%" title='Cube MX'/>
@@ -226,7 +228,7 @@
   <img src ="/assets/images/anaconda.png" alt="Anaconda logo" width="6%" title='Anaconda'/>
   <img src ="/assets/images/machineLearning.png" alt="MachineLearning logo" width="13%" title='Machine learning'/>
   <img src ="/assets/images/opencv.png" alt="Opencv logo" width="10%" title='Opencv'/> -->
-  
+
 </div>
 
 <div align="center" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
@@ -269,7 +271,11 @@
 ### Contact Me
 
 <div align="center">
-<a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/web.png" alt="jepbura logo" width="5%" title='www.jepbura.ir'/></a>
+<a href="https://www.jepbura.ir" target="_blank">
+<!-- <img src ="/assets/images/web.png" alt="jepbura logo" width="5%" title='www.jepbura.ir'/> -->
+
+![GitLab](https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white)
+</a>
 <a href="https://www.bura.dev" target="_blank"><img src ="/assets/images/web.png" alt="bura logo" width="5%" title='www.bura.dev'/></a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
 <a href="https://www.instagram.com/jepbura" target="_blank"><img src ="/assets/images/instagram.png" alt="instagram logo" width="5%" title='Instagram'/></a>
@@ -278,6 +284,7 @@
 <a href="https://t.me/jepbura" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
 <a href="https://t.me/Buradev_Bot" target="_blank"><img src ="/assets/images/bot.png" alt="telegram bot logo" width="5%" title='Telegram Bot'/></a>
 <a href="https://youtube.com/@jepbura" target="_blank"><img src ="/assets/images/youtube.svg" alt="youtube logo" width="5%" title='Youtube'/></a>
+
 </div>
   
 <!---
