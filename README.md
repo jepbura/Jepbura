@@ -273,8 +273,7 @@
 <div align="center">
 <a href="https://www.jepbura.ir" target="_blank">
 <!-- <img src ="/assets/images/web.png" alt="jepbura logo" width="5%" title='www.jepbura.ir'/> -->
-
-![GitLab](https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white)
+<img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="jepbura logo" width="5%" title='www.jepbura.ir'/>
 </a>
 <a href="https://www.bura.dev" target="_blank"><img src ="/assets/images/web.png" alt="bura logo" width="5%" title='www.bura.dev'/></a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
