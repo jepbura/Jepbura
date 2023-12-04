@@ -23,15 +23,20 @@
 <div align="center">
   <h2>Embedded Systems</h2>
 
+![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=white)
+![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=white)
+![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=white)
+
+<!--
   <img src ="/assets/images/st.png" alt="ST logo" width="8%" title='ST'/>
-  
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/>
-  <!-- <img src ="/assets/images/raspberry.png" alt="Raspberry logo" width="5%" title='Raspberry Pi'/>  
-  <img src ="/assets/images/arduino.png" alt="Arduino logo" width="5%" title='Arduino'/> -->
-  
+  <img src ="/assets/images/raspberry.png" alt="Raspberry logo" width="5%" title='Raspberry Pi'/>
+  <img src ="/assets/images/arduino.png" alt="Arduino logo" width="5%" title='Arduino'/>
   <img src ="/assets/images/atmel.png" alt="Atmel logo" width="8%" title='Atmel'/>
-  
   <img src ="/assets/images/microchip.png" alt="Microchip logo" width="8%" title='Microchip'/>
+-->
 <div>
 
 <!-- ### Frontend Technologies -->
@@ -108,10 +113,12 @@
 
 ![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=Kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-000?&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-000?&logo=googlecolab&color=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
 ![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=white)
 ![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=white)
