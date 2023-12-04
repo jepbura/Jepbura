@@ -157,7 +157,7 @@
 <div align="center" style="display: flex; flex-direction: column; align-item:center; justify-content: center;">
   <table>
     <tr>
-      <th><div align="center"><h2>GitHub Analytics</h2></div></th>
+      <th><div align="center"><h3>GitHub Analytics</h3></div></th>
     </tr>
     <tr>
       <td>
@@ -200,7 +200,7 @@
 <div align="center">
   <table>
     <tr>
-      <th><div align="center"><h2>Contact Me</h2></div></th>
+      <th><div align="center"><h3>Contact Me</h3></div></th>
     </tr>
     <tr>
       <td>
