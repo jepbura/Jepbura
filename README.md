@@ -29,8 +29,8 @@
 <div align="center">
 <table>
 <tr>
-<th><h2><div align="center"><h3>Embedded Systems</h3></div> </h2></th>
-<th><h2><div align="center"><h3>Frontend Technologies</h3></div></h2></th>
+<th><div align="center"><h3>Embedded Systems</h3></div></th>
+<th><div align="center"><h3>Frontend Technologies</h3></div></th>
 </tr>
 <tr>
 <td>
