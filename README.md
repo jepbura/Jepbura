@@ -37,13 +37,15 @@
 <!-- ### Frontend Technologies -->
 
 <div align="center">
-  <h2>Frontend Technologies</h2>
+<h2>Frontend Technologies</h2>
+<!-- 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,dart,flutter,javascript,react,ts,gatsby,html,css,tailwind,materialui,bootstrap" />
   </a>
 </p>
-  
+-->
+
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -55,7 +57,7 @@
 ![HTML](https://img.shields.io/badge/HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css&logoColor=007396)
-![Materialui](https://img.shields.io/badge/Material-UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-000?&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
  <!-- <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
