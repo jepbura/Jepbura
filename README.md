@@ -17,47 +17,30 @@
 | <h3>Embedded Systems</h3>                                                                                                                                                                                                                                                                                                                                                                                                                                | <h3>Frontend Technologies</h3>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=white) ![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=white) ![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=white) | ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white) ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-000?&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-000?&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=white) |
+| <h3>Backend Technologies</h3>                                                                                                                                                                                                                                                                                                                                                                                                                            | <h3>Devops Technologies</h3>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| -------------------------                                                                                                                                                                                                                                                                                                                                                                                                                                | ---------------                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+| ![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-000?&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-000?&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-000?&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-000?&logo=firebase&logoColor=white) ![Workers](https://img.shields.io/badge/Workers-000?&logo=Cloudflare&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-000?&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=Kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-000?&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-colab&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white) ![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=white) ![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=white) ![Liara](https://img.shields.io/badge/Liara-000?&logo=Kubernetes&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000?&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-000?&logo=heroku&logoColor=white) |
 
 </div>
 
+<!--
 <div align="center">
   <h2>Embedded Systems</h2>
-
-![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=white)
-![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=white)
-![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=white)
-
-<!--
   <img src ="/assets/images/st.png" alt="ST logo" width="8%" title='ST'/>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/>
   <img src ="/assets/images/raspberry.png" alt="Raspberry logo" width="5%" title='Raspberry Pi'/>
   <img src ="/assets/images/arduino.png" alt="Arduino logo" width="5%" title='Arduino'/>
   <img src ="/assets/images/atmel.png" alt="Atmel logo" width="8%" title='Atmel'/>
   <img src ="/assets/images/microchip.png" alt="Microchip logo" width="8%" title='Microchip'/>
--->
 <div>
-
-<!-- ### Frontend Technologies -->
-
-<div align="center">
-<h2>Frontend Technologies</h2>
-
-![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-000?&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-000?&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=white)
+-->
 
 <!--
+<div align="center">
+<h2>Frontend Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,dart,flutter,javascript,react,ts,gatsby,html,css,tailwind,materialui,bootstrap" />
@@ -72,23 +55,14 @@
   <img src ="/assets/images/gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
   <img src ="/assets/images/html.png" alt="HTML logo" width="5%" title='HTML'/>
   <img src ="/assets/images/css.png" alt="CSS logo" width="5%" title='CSS'/>
-  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="20%" title='Tailwind CSS'/> -->
+  <img src ="/assets/images/tailwindcss.svg" alt="tailwindcss logo" width="20%" title='Tailwind CSS'/> 
 <div> 
-  
-<!-- ### Backend Technologies -->
+-->
 
+<!--
 <div align="center">
   <h2>Backend Technologies</h2>
 
-![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-000?&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-000?&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-000?&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-000?&logo=firebase&logoColor=white)
-![Workers](https://img.shields.io/badge/Workers-000?&logo=Cloudflare&logoColor=white)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-000?&logoColor=white)
-
-<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,powershell,py,nodejs,graphql,workers,firebase" />
@@ -102,30 +76,12 @@
   <img src ="/assets/images/python.svg" alt="Python logo" width="5%" title='Python'/>
   <img src ="/assets/images/cloudflare-workers.png" alt="Cloudflare workers logo" width="5%" title='Cloudflare Workers'/>
   <img src ="/assets/images/graphql.png" alt="Graphql logo" width="10%" title='Graphql'/>
-  <img src ="/assets/images/api.png" alt="Restful api logo" width="7%" title='Restful API'/> -->
-
+  <img src ="/assets/images/api.png" alt="Restful api logo" width="7%" title='Restful API'/> 
 </div>
-
-<!-- ### Devops Technologies -->
+-->
 
 <div align="center">
   <h2>Devops Technologies</h2>
-
-![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=Kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-000?&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-000?&logo=google-colab&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
-![ArvanCloud](https://img.shields.io/badge/ArvanCloud-000?&logo=GoogleCloud&logoColor=white)
-![Hamravesh](https://img.shields.io/badge/Hamravesh-000?&logo=Kubernetes&logoColor=white)
-![Liara](https://img.shields.io/badge/Liara-000?&logo=Kubernetes&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000?&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-000?&logo=heroku&logoColor=white)
 
   <!-- <p align="center"> 
   <a href="https://skillicons.dev">
