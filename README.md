@@ -46,19 +46,18 @@
 </p>
 -->
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=007396)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=00599C)
-![HTML](https://img.shields.io/badge/HTML-000?&logo=html5)
+![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=white)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000?&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css&logoColor=007396)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-000?&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=white)
 
  <!-- <img src ="/assets/images/c.png" alt="C logo" width="6%" title='C'/>
   <img src ="/assets/images/dart.png" alt="Dart logo" width="5%" title='Dart'/>
@@ -76,7 +75,13 @@
 <div align="center">
   <h2>Backend Technologies</h2>
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&logo=firebase)
+![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-000?&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-000?&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-000?&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-000?&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Workers-000?&logo=Cloudflare&logoColor=white)
+![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-000?&logoColor=white)
 
 <!--
 <p align="center">
@@ -138,13 +143,20 @@
 
 <div align="center">
   <h2>Database Technology</h2>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=white)
+
+  <!--  
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis" />
   </a>
 </p>
-  
-<!--  <img src ="/assets/images/mongodb.svg" alt="MongoDB logo" width="10%" title='MongoDB'/>  
+-->
+<!--  <img src ="/assets/images/mongodb.svg" alt="MongoDB logo" width="10%" title='MongoDB'/>
   <img src ="/assets/images/mysql.svg" alt="Mysql logo" width="5%" title='MYSQL'/>
   <img src ="/assets/images/sqlite.svg" alt="Sqlite logo" width="7%" title='Sqlite'/>
   <img src ="/assets/images/redis.png" alt="Redis logo" width="5%" title='Redis'/> -->
@@ -155,11 +167,17 @@
 <div align="center">
   <h2>CI/CD</h2>
   
+![GitHub Actions](https://img.shields.io/badge/github%20actions-000?&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-000?&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-000?&logo=jenkins&logoColor=white)
+
+<!--
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins" />
   </a>
 </p>
+-->
  <!-- <img src ="/assets/images/githubActions.png" alt="Github Actions logo" width="6%" title='Github Actions'/>
   <img src ="/assets/images/jenkins.png" alt="Jenkins logo" width="5%" title='Jenkins'/> -->
 </div>
