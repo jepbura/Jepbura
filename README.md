@@ -76,11 +76,15 @@
 <div align="center">
   <h2>Backend Technologies</h2>
 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&logo=firebase)
+
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,powershell,py,nodejs,graphql,workers,firebase" />
   </a>
 </p>
+-->
  <!-- 
   <img src ="/assets/images/shell.png" alt="Shell logo" width="5%" title='Shell'/>
   <img src ="/assets/images/batch.png" alt="Batch logo" width="5%" title='Batch File'/>
@@ -89,7 +93,7 @@
   <img src ="/assets/images/cloudflare-workers.png" alt="Cloudflare workers logo" width="5%" title='Cloudflare Workers'/>
   <img src ="/assets/images/graphql.png" alt="Graphql logo" width="10%" title='Graphql'/>
   <img src ="/assets/images/api.png" alt="Restful api logo" width="7%" title='Restful API'/> -->
-  
+
 </div>
 
 <!-- ### Devops Technologies -->
@@ -97,11 +101,17 @@
 <div align="center">
   <h2>Devops Technologies</h2>
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-000?&logo=nginx&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
+![ArvanCloud](https://img.shields.io/badge/-☁️%20ArvanCloud-000)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?&logo=digitalOcean&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000?&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-000?&logo=heroku&logoColor=white)
 
   <!-- <p align="center"> 
   <a href="https://skillicons.dev">
