@@ -97,8 +97,11 @@
 <div align="center">
   <h2>Devops Technologies</h2>
 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-000?&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000?&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Ansible](https://img.shields.io/badge/ansible-000?&logo=ansible&logoColor=white)
 
   <!-- <p align="center"> 
   <a href="https://skillicons.dev">
