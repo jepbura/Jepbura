@@ -14,11 +14,13 @@
 
 <div align="center">
 
-| <h2>Embedded Systems</h2> | <h2>Tools</h2> |
-| ------------------------- | -------------- |
-
-|![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=white)
-![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=white) ![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-000?&logo=linux&logoColor=black) |
+| <h2>Embedded Systems</h2>                                                                         |
+| ------------------------------------------------------------------------------------------------- |
+| ![ST](https://img.shields.io/badge/ST-000?&logo=SemanticUIReact&logoColor=white)                  |
+| ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?&logo=Raspberry-Pi&logoColor=white) |
+| ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino&logoColor=white)               |
+| ![Atmel](https://img.shields.io/badge/Atmel-000?&logo=apollo-graphql&logoColor=white)             |
+| ![Microchip](https://img.shields.io/badge/Microchip-000?&logo=react-router&logoColor=white)       |
 
 </div>
 
