@@ -86,7 +86,7 @@
 <tr>
 <th><div align="center"><h3>
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Database Technology
+![DB](https://img.shields.io/badge/Database%20Technology-f03c15)
 
 </h3></div></th>
 <th><div align="center"><h3>CI/CD</h3></div></th>
