@@ -271,11 +271,11 @@
 ### Contact Me
 
 <div align="center">
-<a href="https://www.jepbura.ir" target="_blank">
+<a href="https://www.jepbura.ir">
 <!-- <img src ="/assets/images/web.png" alt="jepbura logo" width="5%" title='www.jepbura.ir'/> -->
 <img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="jepbura logo" title='www.jepbura.ir'/>
 </a>
-<a href="https://www.bura.dev" target="_blank">
+<a href="https://www.bura.dev">
 <img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="bura logo" title='www.bura.dev'/>
 </a>
 <a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
