@@ -89,7 +89,11 @@
 ![DB](https://img.shields.io/badge/Database%20Technology-9999FF)
 
 </h3></div></th>
-<th><div align="center"><h3>CI/CD</h3></div></th>
+<th><div align="center"><h3>
+
+![CI/CD](https://img.shields.io/badge/CI%20CD-49021F)
+
+</h3></div></th>
 </tr>
 <tr>
 <td>
@@ -102,9 +106,9 @@
 </td>
 <td>
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-000?&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-000?&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-000?&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-000?&logo=githubactions&logoColor=49021F)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-000?&logo=gitlab&logoColor=49021F)
+![Jenkins](https://img.shields.io/badge/jenkins-000?&logo=jenkins&logoColor=49021F)
 
 </td>
 </tr>
