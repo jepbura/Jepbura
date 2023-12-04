@@ -272,12 +272,10 @@
 
 <div align="center">
 
-<a href="https://www.jepbura.ir"><img src ="https://img.shields.io/badge/website-000?&logo=Internet%20Explore&logoColor=white" alt="Jepbura logo" title='www.jepbura.ir'/></a>
-<a href="https://www.bura.dev">
-<img src ="https://img.shields.io/badge/website-000?&logo=Internet%20Explore&logoColor=white" alt="Bura logo" title='www.bura.dev'/>
-</a>
-<a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="5%" title='Facebook'/></a>
-<a href="https://www.instagram.com/jepbura" target="_blank"><img src ="/assets/images/instagram.png" alt="instagram logo" width="5%" title='Instagram'/></a>
+<a href="https://www.jepbura.ir"><img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="Jepbura logo" title='www.jepbura.ir'/></a>
+<a href="https://www.bura.dev"><img src ="https://img.shields.io/badge/website-000?&logo=About.me&logoColor=white" alt="Bura logo" title='www.bura.dev'/></a>
+<a href="https://www.facebook.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Facebook-000?&logo=Facebook&logoColor=white" alt="facebook logo" title='Facebook'/></a>
+<a href="https://www.instagram.com/jepbura" target="_blank"><img src ="https://img.shields.io/badge/Instagram-000?&logo=Instagram&logoColor=white" alt="instagram logo" width="5%" title='Instagram'/></a>
 <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="/assets/images/linkedin.png" alt="linkedin logo" width="5%" title='Linkedin'/></a>
 <a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.svg" alt="twitter logo" width="5%" title='Twitter'/></a>
 <a href="https://t.me/jepbura" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
