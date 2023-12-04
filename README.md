@@ -107,17 +107,17 @@
 </h3></div></th>
 <th><div align="center"><h3>
 
-![CI/CD](https://img.shields.io/badge/CI%20CD-49021F)
+![CI/CD](https://img.shields.io/badge/CI%20CD-DA1F26)
 
 </h3></div></th>
 </tr>
 <tr>
 <td>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=9999FF)
-![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=9999FF)
-![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=9999FF)
-![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=9999FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=DA1F26)
+![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=DA1F26)
+![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=DA1F26)
+![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=DA1F26)
 
 </td>
 <td>
