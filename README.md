@@ -6,7 +6,9 @@
 
 <br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jepbura&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/jepbura)
+<div align="center">
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jepbura&data=repositories,stars,commits&theme=carbon)](https://github.com/jepbura)
+</div>
 
 <br/>
 
