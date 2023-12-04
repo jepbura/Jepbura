@@ -53,8 +53,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=00599C)
 ![html](https://img.shields.io/badge/-html-000?&logo=html)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind&logoColor=007396)
+![css](https://img.shields.io/badge/-CSS-000&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind&logoColor=007396)
 ![Materialui](https://img.shields.io/badge/-Materialui-000?&logo=Materialui&logoColor=00599C)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
