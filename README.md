@@ -75,7 +75,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-000?&logo=node.js&logoColor=0AC18E)
 ![Firebase](https://img.shields.io/badge/firebase-000?&logo=firebase&logoColor=0AC18E)
 ![Workers](https://img.shields.io/badge/Workers-000?&logo=Cloudflare&logoColor=0AC18E)
-![Socket.io](https://img.shields.io/badge/Socket.io-000?&logo=socket.io&badgeColor=0AC18E)
+![Socket.io](https://img.shields.io/badge/Socket.io-000?&logo=socket.io&logoColor=0AC18E)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000?&logo=graphql&logoColor=0AC18E)
 ![Strapi](https://img.shields.io/badge/strapi-000?&logo=strapi&logoColor=0AC18E)
 
