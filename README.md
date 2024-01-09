@@ -39,9 +39,10 @@
 <td>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=FF00A0)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FF00A0)
+![Go](https://img.shields.io/badge/-GO-000?&logo=C&logoColor=FF00A0)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=FF00A0)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=FF00A0)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=FF00A0)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=FF00A0)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=FF00A0)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby&logoColor=FF00A0)
