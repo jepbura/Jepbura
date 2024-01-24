@@ -39,7 +39,7 @@
 <td>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=FF00A0)
-![CPP](https://img.shields.io/badge/-CPP-000?&logo=CPP&logoColor=FF00A0)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C&logoColor=FF00A0)
 ![Go](https://img.shields.io/badge/-GO-000?&logo=Go&logoColor=FF00A0)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=FF00A0)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=FF00A0)
