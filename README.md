@@ -3,9 +3,7 @@
 </div>
 
 <br/>
-
-<div align="center">
-  /* ==UserStyle==
+/* ==UserStyle==
 @name Github Dracula
 @namespace https://github.com/Dracula
 @homepageURL https://github.com/Dracula/github
@@ -582,8 +580,6 @@ background-color: draculaW-blackSecondary
     }
   }
 }
-
-</div>
 
 <br/>
 
