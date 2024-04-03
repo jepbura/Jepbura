@@ -189,7 +189,7 @@
   <a href="https://github.com/jepbura">
     <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jepbura&theme=slateorange" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=slateorange"/>
-    <img height="160em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&layout=compact&langs_count=7&theme=slateorange](https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&hide=javascript,css,scss,html&theme=tokyonight)"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepbura&hide=javascript,css,scss,html&theme=tokyonight"/>
             
   </a>
 </div> -->
