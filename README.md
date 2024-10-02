@@ -70,6 +70,7 @@
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=0AC18E)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C&logoColor=0AC18E)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=0AC18E)
 ![Go](https://img.shields.io/badge/-GO-000?&logo=Go&logoColor=0AC18E)
 ![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=0AC18E)
 ![PowerShell](https://img.shields.io/badge/PowerShell-000?&logo=powershell&logoColor=0AC18E)
