@@ -69,7 +69,6 @@
 <td>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=0AC18E)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C&logoColor=0AC18E)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=0AC18E)
 ![Go](https://img.shields.io/badge/-GO-000?&logo=Go&logoColor=0AC18E)
 ![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=0AC18E)
@@ -120,6 +119,7 @@
 <td>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=9999FF)
+![Postgresql](https://img.shields.io/badge/postgresql-000?&logo=postgresql&logoColor=9999FF)
 ![MySQL](https://img.shields.io/badge/mysql-000?&logo=mysql&logoColor=9999FF)
 ![SQLite](https://img.shields.io/badge/sqlite-000?&logo=sqlite&logoColor=9999FF)
 ![Redis](https://img.shields.io/badge/redis-000?&logo=redis&logoColor=9999FF)
