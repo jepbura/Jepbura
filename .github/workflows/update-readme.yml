@@ -1,23 +1,26 @@
-name: Update README
+name: Update Experience Years in README
 
 on:
   schedule:
-    - cron: "0 0 1 1 *"
-  workflow_dispatch:
+    - cron: "0 0 1 1 *" # Runs on January 1st each year
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Update years in README
         run: |
           CURRENT_YEAR=$(date +%Y)
-          YEARS=$((CURRENT_YEAR - 2017))
-          sed -i "s/over [0-9]\\+ years of experience in creating/over $YEARS years of experience in creating/" README.md
-      - name: Commit changes
+          YEARS_SINCE_2018=$((CURRENT_YEAR - 2018))
+          sed -i "s/over [0-9]\\+ years of experience in creating and developing/over $YEARS_SINCE_2018 years of experience in creating and developing/" README.md
+
+      - name: Commit and push if changed
         run: |
-          git config --local user.email "jepbura@gmail.com"
-          git config --local user.name "jepbura"
-          git commit -am "Update years of experience" || echo "No changes to commit"
+          git config --global user.name "jepbura"
+          git config --global user.email "jepbura@gmail.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update software experience years"
           git push
