@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 1 1 *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update years in README
+        run: |
+          CURRENT_YEAR=$(date +%Y)
+          YEARS=$((CURRENT_YEAR - 2017))
+          sed -i "s/over [0-9]\\+ years of experience in creating/over $YEARS years of experience in creating/" README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update years of experience" || echo "No changes to commit"
+          git push
