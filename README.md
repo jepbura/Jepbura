@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="/assets/gif/bg.gif" width="75%">
+  <img src="/assets/gif/bg.gif" width="85%">
 </div>
 
 <br/>
 
-<p align="center">Hi there to all of you. I'm from Iran, and my name is Javad. I have over ten years of experience in hardware programming and circuit design as an inventor and electronic engineer. I have effectively led a number of difficult projects to completion over the years by utilizing both my technical expertise and creative thinking. Apart from my proficiency in electronics, I have over 6 years of experience in creating and developing various kinds of software.</p>
+<!-- <p align="center">Hi there to all of you. I'm from Iran, and my name is Javad. I have over ten years of experience in hardware programming and circuit design as an inventor and electronic engineer. I have effectively led a number of difficult projects to completion over the years by utilizing both my technical expertise and creative thinking. Apart from my proficiency in electronics, I have over 6 years of experience in creating and developing various kinds of software.</p> -->
 
 <!-- <div align="center">
 <a href="https://www.jepbura.ir" target="_blank"><img src="https://github-widgetbox.vercel.app/api/profile?username=jepbura&data=repositories,stars,commits&theme=carbon" alt="jepbura logo" title='www.jepbura.ir'/></a>
